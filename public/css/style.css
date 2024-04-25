@@ -2106,7 +2106,7 @@ p.center {
 }
 
 .zs-enabled .zs-slideshow .zs-slides .zs-slide {
-    background: transparent none no-repeat 50% 50%;
+    background: transparent none no-repeat 50% 25%;
     background-size: cover;
     position: absolute;
     visibility: hidden;
