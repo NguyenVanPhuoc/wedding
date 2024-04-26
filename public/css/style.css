@@ -5846,7 +5846,7 @@ section.side-flowers {
     opacity: 1
 }
 
-#wish-form > div {
+#frm-happy > div {
 	margin-bottom: 20px;
 }
 .form-control,
@@ -6381,6 +6381,64 @@ textarea.form-control {
     -o-transform: rotate(180deg);
     transform: rotate(180deg)
 }
+
+.text-danger {
+    font-size: 14px;
+    margin-top: 3px;
+}
+
+#shadow-host-companion { display: none;}
+
+/*================================================================== */
+/* Start style loading - ajax
+/*================================================================== */
+.lds-dual-ring.hidden {
+    display: none;
+}
+
+.lds-dual-ring {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+}
+
+.lds-dual-ring:after {
+    content: " ";
+    display: inline-block;
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    border: 6px solid;
+    position: absolute;
+    left: calc(50% - 32px);
+    top: 40%;
+    border-color: #fff transparent #fff transparent;
+    animation: lds-dual-ring 1.2s linear infinite;
+}
+
+@keyframes lds-dual-ring {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background: rgba(0,0,0,.2);
+    z-index: 999;
+    opacity: 1;
+    transition: all 0.5s;
+}
+/*================================================================== */
+/* End style loading - ajax
+/*================================================================== */
 
 @media (max-width:1399px) {
     .invite .invite_info h2 {
@@ -7139,7 +7197,7 @@ textarea.form-control {
 }
 
 @media (max-width:480px) {
-	#wish-form button.submit_form {
+	#frm-happy button.submit_form {
 		max-width: 172px;
 	    padding: 15px 10px;
 	}
@@ -7792,13 +7850,13 @@ text-transform:uppercase;
 @media screen and (max-width: 400px){
   .emoji-picker > emoji-picker{ --num-columns: 6;}
 }
-#wish-form textarea{margin-bottom:0;border-radius:0!important;resize: none;}
-#wish-form .textAreaIcons{position:relative;text-align:right;background: #fff;padding: 10px;border-top: none;border: 1px solid #ddd;}
-#wish-form .textAreaIcons span{color: #333;cursor:pointer;margin-right:4px;}
-#wish-form .textAreaIcons .tooltip{ width: 150px;}
-#wish-form .textAreaIcons .tooltip .tooltip-inner{padding: 8px 12px;font-size: 16px;}
-#wish-form .wishes-autocomplete-content{position: absolute;top: 50px;width: 100%;left: 0;z-index: 333;background: #fff;-webkit-box-shadow: 0 1px 2px 0 rgb(60 64 67 / 35%), 0 2px 6px 2px rgb(60 64 67 / 35%);box-shadow: 0 1px 2px 0 rgb(60 64 67 / 35%), 0 2px 6px 2px rgb(60 64 67 / 35%);}
-#wish-form .wishes-autocomplete-content input{
+#frm-happy textarea{margin-bottom:0;border-radius:0!important;resize: none;}
+#frm-happy .textAreaIcons{position:relative;text-align:right;background: #fff;padding: 10px;border-top: none;border: 1px solid #ddd;}
+#frm-happy .textAreaIcons span{color: #333;cursor:pointer;margin-right:4px;}
+#frm-happy .textAreaIcons .tooltip{ width: 150px;}
+#frm-happy .textAreaIcons .tooltip .tooltip-inner{padding: 8px 12px;font-size: 16px;}
+#frm-happy .wishes-autocomplete-content{position: absolute;top: 50px;width: 100%;left: 0;z-index: 333;background: #fff;-webkit-box-shadow: 0 1px 2px 0 rgb(60 64 67 / 35%), 0 2px 6px 2px rgb(60 64 67 / 35%);box-shadow: 0 1px 2px 0 rgb(60 64 67 / 35%), 0 2px 6px 2px rgb(60 64 67 / 35%);}
+#frm-happy .wishes-autocomplete-content input{
 	background-image: url('../images/searchicon.png')!important;
 	background-position: 10px!important;
 	background-repeat: no-repeat!important;
@@ -7809,8 +7867,8 @@ text-transform:uppercase;
 	margin-bottom: 0!important;
 	border-radius:0!important;
 }
-#wish-form .wishes-autocomplete-content ul{list-style-type: none;margin: 0;padding: 0;max-height: 300px;overflow: auto;display: block;height: auto;text-align:left;}
-#wish-form .wishes-autocomplete-content ul li a {
+#frm-happy .wishes-autocomplete-content ul{list-style-type: none;margin: 0;padding: 0;max-height: 300px;overflow: auto;display: block;height: auto;text-align:left;}
+#frm-happy .wishes-autocomplete-content ul li a {
 	border: 1px solid #ddd!important;
 	margin-top: -1px!important;
 	padding: 12px!important;
@@ -7819,8 +7877,8 @@ text-transform:uppercase;
 	color: black!important;
 	display: block!important;
 }
-#wish-form .wishes-autocomplete-content ul li a:hover{background-color: #eee!important;}
-#wish-form .tooltip-custom {
+#frm-happy .wishes-autocomplete-content ul li a:hover{background-color: #eee!important;}
+#frm-happy .tooltip-custom {
 	position: relative;
 	display: inline-block;
 }

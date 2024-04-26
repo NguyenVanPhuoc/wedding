@@ -4,13 +4,16 @@
             <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2  col-xxl-6 offset-xxl-3">
                 <div class="form-wrapper flowers neela-style">
                     <h1 class="section-title">Sổ Lưu Bút</h1>
-                    <form id="wish-form" class="form validate-rsvp-form row" method="post">
-                        <div>
-                            <input type="text" name="name" placeholder="Tên của bạn*" class="form-control">
+                    <form id="frm-happy" action="{{ route('happy_book') }}" class="form validate-rsvp-form row" method="post">
+                        @csrf
+                        <div class="form-group">
+                            <input type="text" id="name" name="name" placeholder="Tên của bạn*" class="form-control">
+                            <div class="error-name"></div>
                         </div>
 
-                        <div>
-                            <input type="email" name="email" placeholder="E-mail" class="form-control">
+                        <div class="form-group">
+                            <input type="email" id="email" name="email" placeholder="E-mail" class="form-control">
+                            <div class="error-email"></div>
                         </div>
                         <div>
                             <div class="textarea-emoji-picker">
@@ -70,26 +73,12 @@
                         </div>
                     </form>
                     <div class="wish-box">
-                        <div class="wish-box-item ">
-                            <strong>CEO của NTA</strong>
-                            <p>&quot;Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, và luôn ở cùng một người&quot; 
-                                - Chúc cho hai bạn sẽ có được một cuộc hôn nhân viên mãn, trăm năm hạnh phúc!</p>
-                        </div>
-                        <div class="wish-box-item ">
-                            <strong>CEO của NTA</strong>
-                            <p>&quot;Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, và luôn ở cùng một người&quot; 
-                                - Chúc cho hai bạn sẽ có được một cuộc hôn nhân viên mãn, trăm năm hạnh phúc!</p>
-                        </div>
-                        <div class="wish-box-item ">
-                            <strong>CEO của NTA</strong>
-                            <p>&quot;Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, và luôn ở cùng một người&quot; 
-                                - Chúc cho hai bạn sẽ có được một cuộc hôn nhân viên mãn, trăm năm hạnh phúc!</p>
-                        </div>
-                        <div class="wish-box-item ">
-                            <strong>CEO của NTA</strong>
-                            <p>&quot;Một cuộc hôn nhân thành công đòi hỏi phải yêu nhiều lần, và luôn ở cùng một người&quot; 
-                                - Chúc cho hai bạn sẽ có được một cuộc hôn nhân viên mãn, trăm năm hạnh phúc!</p>
-                        </div>
+                        @foreach($contents as $key => $item)
+                            <div class="wish-box-item">
+                                <strong>{{ $item->name }}</strong>
+                                <div class="content">{{ $item->content }}</div>
+                            </div>
+                        @endforeach
                     </div>
                 </div>
             </div>

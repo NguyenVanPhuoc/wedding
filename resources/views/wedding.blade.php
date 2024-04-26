@@ -43,7 +43,7 @@
     <!-- END GROOMSMEN SECTION -->
         
     <!-- BEGIN CONTACTS SECTION -->
-    @include('body.book')
+    @include('body.book', ['contents' => $contents])
     <!-- END CONTACTS SECTION -->
 
     <!-- BEGIN DONATE SECTION -->
@@ -80,5 +80,6 @@
             </li>
         </ul>
     </div>
+    <div id="data_loading" class="lds-dual-ring hidden overlay"></div>
     
 @endsection

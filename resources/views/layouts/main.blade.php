@@ -74,6 +74,7 @@
     <script src="{{ asset('js/insertTextAtCursor.js') }}"></script>
     <script src="{{ asset('js/init.js') }}"></script>
     <script src="{{ asset('js/scripts.js') }}"></script>
+    <script src="{{ asset('js/happyBook.js') }}"></script>
     @stack('js')
 </body>
 </html>

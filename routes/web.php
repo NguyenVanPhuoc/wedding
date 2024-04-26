@@ -15,3 +15,4 @@ use App\Http\Controllers\WeddingController;
 */
 
 Route::get('/', [WeddingController::class, 'index'])->name('wedding');
+Route::post('/happy-book', [WeddingController::class, 'happyBook'])->name('happy_book');

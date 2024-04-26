@@ -1,18 +1,34 @@
 <?php
 
 namespace App\Http\Controllers;
+use App\Models\HappyBook;
 
-use Illuminate\Http\Request;
+use App\Http\Requests\HappyBookRequest;
 
 class WeddingController extends Controller
 {
     /**
      * Display a listing of the resource.
      *
-     * @return \Illuminate\Http\Response
+     * @return view
      */
-    public function index(Request $request)
+    public function index()
     {
-        return view('wedding');
+        $contents = HappyBook::select('name', 'email', 'content')->orderBy('created_at', 'desc')->get();
+        return view('wedding', compact('contents'));
+    }
+
+    /**
+     * Get data happy books.
+     *
+     * @param HappyBookRequest $request
+     * @return \Illuminate\Http\JsonResponse
+     */
+    public function happyBook(HappyBookRequest $request)
+    {
+        $params = $request->all();
+        $result = HappyBook::create($params);
+        $happy = HappyBook::select('name', 'email', 'content')->where('id', $result->id)->first();
+        return response()->json(['status' => 'success', 'happy' => $happy]);
     }
 }
