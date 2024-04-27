@@ -1,4 +1,4 @@
-<section id="giftregistry" class="parallax-background section-bg-color" style="padding:135px 0; background-image: url({{ asset('images/TNQ06712.jpg') }});">
+<section id="giftregistry" class="parallax-background section-bg-color" style="background-image: url({{ asset('images/TNQ06712.jpg') }});">
     <div class="section-divider-top-4 off-section"></div>
    <div class="container">
        <div class="row">
@@ -23,7 +23,7 @@
                                            <div class="dresscode-colors-item" style="background:#623262;"></div>
                                        </div>
                                    </div>
-                                   <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>07:30 10/02/2023</strong></p>
+                                   <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>08:30 07/07/2024</strong></p>
                                    <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Tư gia nhà nữ</strong></p>
                                </div>
                            </div>
@@ -34,10 +34,10 @@
                                    {
                                    "name":"LỄ CƯỚI NHÀ NỮ (Đám cưới Nguyễn Phước và Mỹ Thùy)",
                                    "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. ",
-                                   "startDate":"2023-02-10",
-                                   "endDate":"2023-02-10",
-                                   "startTime":"07:30",
-                                   "endTime":"07:30",
+                                   "startDate":"2024-07-07",
+                                   "endDate":"2024-07-07",
+                                   "startTime":"08:30",
+                                   "endTime":"10:00",
                                    "location":"Tư gia nhà nữ",
                                    "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                    "timeZone":"Asia/Ho_Chi_Minh",
@@ -49,7 +49,7 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/place/Da+Nang,+H%E1%BA%A3i+Ch%C3%A2u+District,+Da+Nang,+Vietnam/@16.0471659,108.1716864,13z/data=!3m1!4b1!4m5!3m4!1s0x314219c792252a13:0xfc14e3a044436487!8m2!3d16.0544068!4d108.2021667" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/dir/16.0723198,108.0911135/16.0728183,108.0910684/@16.072853,108.0899316,18.25z/data=!4m4!4m3!1m0!1m1!4e1?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
@@ -70,8 +70,8 @@
                                            <div class="dresscode-colors-item" style="background:#bc5f6a;"></div>
                                        </div>
                                    </div>
-                                   <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>11:30 10/02/2023</strong></p>
-                                   <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Nhà hàng tiệc cưới Hoa Cau</strong></p>
+                                   <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>10:30 07/07/2024</strong></p>
+                                   <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Tư gia nhà nữ</strong></p>
                                </div>
                            </div>
 
@@ -81,11 +81,11 @@
                                    {
                                    "name":"TIỆC CƯỚI NHÀ NỮ (Đám cưới Nguyễn Phước và Mỹ Thùy)",
                                    "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. ",
-                                   "startDate":"2023-02-10",
-                                   "endDate":"2023-02-10",
-                                   "startTime":"11:30",
-                                   "endTime":"11:30",
-                                   "location":"Nhà hàng tiệc cưới Hoa Cau",
+                                   "startDate":"2024-07-07",
+                                   "endDate":"2024-07-07",
+                                   "startTime":"10:30",
+                                   "endTime":"14:30",
+                                   "location":"Tư gia nhà nữ",
                                    "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                    "timeZone":"Asia/Ho_Chi_Minh",
                                    "iCalFileName":"Reminder-Event",
@@ -96,7 +96,7 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/place/Da+Nang,+H%E1%BA%A3i+Ch%C3%A2u+District,+Da+Nang,+Vietnam/@16.0471659,108.1716864,13z/data=!3m1!4b1!4m5!3m4!1s0x314219c792252a13:0xfc14e3a044436487!8m2!3d16.0544068!4d108.2021667" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/place/16%C2%B003'10.3%22N+108%C2%B006'39.7%22E/@16.052864,108.1099394,18z/data=!3m1!4b1!4m4!3m3!8m2!3d16.052864!4d108.111022?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
@@ -117,7 +117,7 @@
                                            <div class="dresscode-colors-item" style="background:#57233a;"></div>
                                        </div>
                                    </div>
-                                   <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>09:00 12/09/2023</strong></p>
+                                   <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>11:30 08/07/2024</strong></p>
                                    <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Tư gia nhà nam</strong></p>
                                </div>
                            </div>
@@ -128,10 +128,10 @@
                                    {
                                    "name":"LỄ CƯỚI NHÀ NAM (Đám cưới Nguyễn Phước và Mỹ Thùy)",
                                    "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. ",
-                                   "startDate":"2023-09-12",
-                                   "endDate":"2023-09-12",
-                                   "startTime":"09:00",
-                                   "endTime":"09:00",
+                                   "startDate":"2024-07-08",
+                                   "endDate":"2024-07-08",
+                                   "startTime":"11:30",
+                                   "endTime":"12:00",
                                    "location":"Tư gia nhà nam",
                                    "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                    "timeZone":"Asia/Ho_Chi_Minh",
@@ -143,7 +143,7 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/place/Da+Nang,+H%E1%BA%A3i+Ch%C3%A2u+District,+Da+Nang,+Vietnam/@16.0471659,108.1716864,13z/data=!3m1!4b1!4m5!3m4!1s0x314219c792252a13:0xfc14e3a044436487!8m2!3d16.0544068!4d108.2021667" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/place/16%C2%B031'20.9%22N+107%C2%B029'15.2%22E/@16.52248,107.4868983,19z/data=!3m1!4b1!4m13!1m8!3m7!1s0x3141a7e4ee276465:0xa2bd7aa907234c83!2zNDEgVHLhuqduIEjGsG5nIMSQ4bqhdCwgSMawxqFuZyBWxINuLCBIxrDGoW5nIFRyw6AsIFRo4burYSBUaGnDqm4gSHXhur8sIFZp4buHdCBOYW0!3b1!8m2!3d16.5222847!4d107.4874051!16s%2Fg%2F11hbn8zyw9!3m3!8m2!3d16.52248!4d107.487542?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
@@ -164,8 +164,8 @@
                                            <div class="dresscode-colors-item" style="background:#632a7e;"></div>
                                        </div>
                                    </div>
-                                   <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>12:00 12/09/2023</strong></p>
-                                   <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Nhà hàng tiệc cưới For You</strong></p>
+                                   <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>12:00 08/07/2024</strong></p>
+                                   <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Tư gia nhà nam</strong></p>
                                </div>
                            </div>
 
@@ -175,11 +175,11 @@
                                    {
                                    "name":"TIỆC CƯỚI NHÀ NAM (Đám cưới Nguyễn Phước và Mỹ Thùy)",
                                    "description":"Cảm ơn bạn đã dành thời gian tham dự đám cưới của chúng tôi!. ",
-                                   "startDate":"2023-09-12",
-                                   "endDate":"2023-09-12",
+                                   "startDate":"2024-08-07",
+                                   "endDate":"2024-08-07",
                                    "startTime":"12:00",
-                                   "endTime":"12:00",
-                                   "location":"Nhà hàng tiệc cưới For You",
+                                   "endTime":"17:00",
+                                   "location":"Tư gia nhà nam",
                                    "options":["Apple","Google","iCal","Microsoft365","MicrosoftTeams","Outlook.com","Yahoo"],
                                    "timeZone":"Asia/Ho_Chi_Minh",
                                    "iCalFileName":"Reminder-Event",
@@ -190,7 +190,7 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/place/Da+Nang,+H%E1%BA%A3i+Ch%C3%A2u+District,+Da+Nang,+Vietnam/@16.0471659,108.1716864,13z/data=!3m1!4b1!4m5!3m4!1s0x314219c792252a13:0xfc14e3a044436487!8m2!3d16.0544068!4d108.2021667" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/place/16%C2%B031'20.9%22N+107%C2%B029'15.2%22E/@16.52248,107.4868983,19z/data=!3m1!4b1!4m13!1m8!3m7!1s0x3141a7e4ee276465:0xa2bd7aa907234c83!2zNDEgVHLhuqduIEjGsG5nIMSQ4bqhdCwgSMawxqFuZyBWxINuLCBIxrDGoW5nIFRyw6AsIFRo4burYSBUaGnDqm4gSHXhur8sIFZp4buHdCBOYW0!3b1!8m2!3d16.5222847!4d107.4874051!16s%2Fg%2F11hbn8zyw9!3m3!8m2!3d16.52248!4d107.487542?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>

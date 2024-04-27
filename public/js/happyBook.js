@@ -26,6 +26,7 @@ jQuery(document).ready(function($) {
                     <div class="content">${response.content}</div>
                 </div>`);
                 $('input, textarea').val('');
+                $('.submit_form').prop('disabled', true)
             },
             error: function (error) { 
                 $('#data_loading').hide();

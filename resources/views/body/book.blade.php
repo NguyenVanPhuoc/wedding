@@ -4,7 +4,7 @@
             <div class="col-lg-10 offset-lg-1 col-xl-8 offset-xl-2  col-xxl-6 offset-xxl-3">
                 <div class="form-wrapper flowers neela-style">
                     <h1 class="section-title">Sổ Lưu Bút</h1>
-                    <form id="frm-happy" action="{{ route('happy_book') }}" class="form validate-rsvp-form row" method="post">
+                    <form id="frm-happy" action="{{ route('happy_book') }}" class="form validate-rsvp-form row" method="POST">
                         @csrf
                         <div class="form-group">
                             <input type="text" id="name" name="name" placeholder="Tên của bạn*" class="form-control">
