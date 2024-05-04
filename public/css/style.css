@@ -401,7 +401,7 @@ section {
 .section-title {
     float: none;
     text-align: center;
-    margin: 0 auto 70px;
+    margin: 0 auto 50px;
     position: relative;
     padding-bottom: 35px;
     font-family: 'Marmelad', sans-serif
@@ -1310,7 +1310,7 @@ p.center {
 }
 
 .extra-padding-section {
-    padding: 250px 0
+    padding: 200px 0
 }
 
 .extra-padding-top {
@@ -2264,7 +2264,7 @@ p.center {
 
 .element {
     position: relative;
-    margin-bottom: 40px
+    margin-bottom: 20px
 }
 
 .element .highlight {
@@ -3509,27 +3509,11 @@ p.center {
 }
 
 .map-info-container {
-    /* display: grid;
-    grid-template-columns: repeat(24, 1fr); */
     position: relative;
-    margin-bottom: 50px
+    margin-bottom: 20px
 }
 
-/* .map-info-container::before {
-    content: "";
-    width: 1px;
-    height: calc(100% + 59px);
-    position: absolute;
-    top: 0;
-    left: 50%;
-    margin-left: -1px;
-    background: #8eaeba;
-    clear: both
-} */
-
 .map-info-container .info-wrapper {
-    /* grid-column: 1/span 9;
-    grid-row: 1; */
     margin-top: 10%;
     z-index: 1
 }
@@ -4074,6 +4058,7 @@ section.side-flowers {
 }
 
 #giftregistry {
+    padding: 100px 0px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center
@@ -4171,6 +4156,8 @@ section.side-flowers {
 	}
 	.gallery-container .timeline-gallery-wrapper .item > img{
 		border-radius: 50%;
+        max-width: 300px !important;
+        height: 300px !important;
 	}
 }
 
@@ -6626,11 +6613,11 @@ textarea.form-control {
     }
 
     .invite .invite_title {
-        font-size: 80pt
+        font-size: 60pt
     }
 
     .invite .invite_title .text {
-        padding: 90px 60px
+        padding: 50px
     }
 
     .invite .invite_title .text::after,
@@ -7294,7 +7281,8 @@ textarea.form-control {
     }
 
     .timeline_footer .punchline {
-        font-size: 34pt
+        font-size: 34pt;
+        padding-bottom: 20px
     }
 
     .timeline_footer .punchline small {
@@ -7323,7 +7311,7 @@ textarea.form-control {
     }
 
     .form-wrapper {
-        padding: 20px 25px
+        padding: 20px 10px
     }
 
     .pagination {
@@ -7360,6 +7348,64 @@ textarea.form-control {
 
     .submit_form .icon {
         display: none !important
+    }
+
+    .gallery-container {
+        margin-bottom: 70px;
+    }
+
+    .timeline .year {
+        margin-bottom: 35px;
+    }
+
+    .timeline .description .neela-style {
+        padding: 30px 10px;
+    }
+
+    #giftregistry {
+        padding: 0;
+    }
+
+    .extra-padding-section {
+        padding: 100px 0;
+    }
+
+    section {
+        padding: 40px 0;
+    }
+
+    .gallery-container .timeline-gallery-wrapper .item > img {
+        max-width: 250px !important;
+        height: 250px !important;
+    }
+
+    .timeline .description {
+        padding: 20px;
+        border: 0;
+    }
+
+    .wish-box-item .content {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .wish-box-item > strong {
+        font-weight: bolder;
+        font-size: 18px;
+    }
+
+    .form-wrapper.neela-style {
+        border: 20px solid #fff;
+    }
+
+    .wedding-gifts li {
+        padding: 25px;
+    }
+
+    #giftregistry .events-boxs {
+        background-color: rgb(61 89 99 / 80%);
+        color: #fff;
+        padding: 30px 25px !important;
     }
 }
 
@@ -7531,7 +7577,7 @@ textarea.form-control {
 
 
 #gallery {
-    padding-bottom: 105px;
+    padding-bottom: 75px;
   }
   
   @media (max-width: 991px) {
@@ -7593,16 +7639,14 @@ textarea.form-control {
 
 @media screen and (max-width:576px){
 	.parent-infos{
-	
-	font-size: .8rem;
-	
+	font-size: .8rem;	
+    }
 
-}
-.parent-info-group{
-	display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
+    .parent-info-group{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
 	
 }
 	

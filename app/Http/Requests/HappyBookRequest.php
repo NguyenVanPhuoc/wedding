@@ -25,7 +25,12 @@ class HappyBookRequest extends FormRequest
     public function rules()
     {
         return [
-            'name' => 'required',
+            'name' =>  [
+                'required',
+                'min:3',
+                'max:50',
+                Rule::unique('happy_books'),
+            ],
             'email' => [
                 'required',
                 'max:100',
@@ -44,8 +49,10 @@ class HappyBookRequest extends FormRequest
     {
         return [
             'name.required' => 'Vui lòng nhập tên của bạn!',
+            'name.unique' => 'Tên này đã tồn tại!',
+            'name.min' => 'Vui lòng nhập trên 3 ký tự!',
             'email.required' => 'Vui lòng nhập email của bạn!',
-            'email.unique' => 'Email đã tồn tại!',
+            'email.unique' => 'Email này đã tồn tại!',
         ];
     }
 }
