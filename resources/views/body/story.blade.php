@@ -15,7 +15,7 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
             <div class="col-md-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
                 <div class="timeline">
                     <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                        <span class="neela-style">December 12 2015</span>
+                        <span class="neela-style">July 10 2019</span>
                     </div>
                     <div class="gallery-container">
                         <div class="timeline-gallery-wrapper" data-animation-direction="from-left" data-animation-delay="250">
@@ -29,20 +29,27 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                         <div class="description-wrapper" data-animation-direction="from-bottom" data-animation-delay="250">
                             <div class="description">
                                 <div class="neela-style">
-                                    <h4>Bạn có tin vào tình yêu online không?</h4>
-                                    <p>Tôi đã từng không tin vào tình yêu online. Đã từng nghĩ làm sao có thể thích một người chưa từng gặp mặt? Vậy mà giờ đây tôi lại đang như vậy, bây giờ tôi đã hiểu: thế giới ảo tình yêu thật đấy!!! Ngày ấy vu vơ đăng một dòng status trên facebook than thở, vu vơ đùa giỡn nói chuyện với một người xa lạ chưa từng quen. Mà nào hay biết, 4 năm sau người ấy lại là chồng mình.</p>
+                                    <h4>Tình Yêu Mai Mối: Khi Định Mệnh Được Sắp Đặt</h4>
+                                    <p>
+                                        Tôi từng không tin vào tình yêu mai mối. 
+                                        Một người bạn thân đã giới thiệu tôi với anh ấy, ban đầu tôi ngần ngại nhưng vẫn đồng ý gặp mặt. 
+                                        Nào ngờ, 5 năm sau, anh ấy trở thành chồng tôi. 
+                                        Chúng tôi bắt đầu bằng những buổi trò chuyện chân thành và dần yêu nhau. 
+                                        Giờ đây, tôi hiểu rằng đôi khi định mệnh cần một chút giúp đỡ từ bạn bè. 
+                                        Câu chuyện của chúng tôi là minh chứng cho điều đó.
+                                    </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                        <span class="neela-style">August 04 2016</span>
+                        <span class="neela-style">October 03 2019</span>
                     </div>
                     <div class="gallery-container">
                         <div class="timeline-gallery-wrapper" data-animation-direction="from-left" data-animation-delay="250">
                             <div class="timeline-gallery-del">
                                 <div class="item text-center">
-                                    <img src="{{ asset('images/TNQ06121.JPG') }}" alt="Lời tỏ tình dễ thương^^" class="w-100 h-auto" style="max-width:500px;" />
+                                    <img src="{{ asset('images/TNQ06121.JPG') }}" alt="Lời Tỏ Tình Qua Món Bún Mắm^^" class="w-100 h-auto" style="max-width:500px;" />
                                 </div>
                             </div>
                         </div>
@@ -50,14 +57,20 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                         <div class="description-wrapper" data-animation-direction="from-bottom" data-animation-delay="250">
                             <div class="description">
                                 <div class="neela-style">
-                                    <h4>Lời tỏ tình dễ thương^^</h4>
-                                    <p>Ngày ấy, tôi 21! Một mình giữa phố thị nấp tập. Mỗi chiều cuối tuần thường chạy xe vòng quanh qua những con phố, len lỏi trong từng dòng người tấp nập. Hay thậm chí là ghé vào một quán cà phê ven đường để ngồi đó và cảm nhận về cuộc sống của riêng mình. Đôi khi lạc lõng và hơi cô đơn. Nhưng rồi một ngày đẹp trời, người con trai ấy xuất hiện, nắm tay rồi thủ thỉ vào tai: “Hy vọng sau này anh được làm những điều ấy cùng em”.</p>
+                                    <h4>Lời Tỏ Tình Qua Món Bún Mắm^^</h4>
+                                    <p>
+                                        Hôm ấy, anh ấy mời tôi đi ăn bún mắm, món mà tôi rất thích. 
+                                        Khi chúng tôi ngồi xuống, anh cười ngại ngùng và nói: "Tớ nghe nói cậu rất thích bún mắm, nên hôm nay mời cậu đến quán này." 
+                                        Khi bát bún mắm được mang ra, anh lấy hết can đảm nhìn tôi và nói: 
+                                        "Như bún mắm là món ăn yêu thích của cậu, tớ cũng mong được trở thành người quan trọng trong lòng cậu. Cậu có muốn làm bạn gái tớ không?" 
+                                        Tôi cười, trái tim rộn ràng và gật đầu đồng ý, cảm thấy hạnh phúc ngập tràn trong hương vị đậm đà của món ăn yêu thích.
+                                    </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                        <span class="neela-style">May 10 2018</span>
+                        <span class="neela-style">April 01 2023</span>
                     </div>
                     <div class="gallery-container">
                         <div class="timeline-gallery-wrapper" data-animation-direction="from-left" data-animation-delay="250">
@@ -72,13 +85,20 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                             <div class="description">
                                 <div class="neela-style">
                                     <h4>Phút giây cầu hôn</h4>
-                                    <p>5 năm bên nhau không phải là quãng thời gian quá dài, nhưng đủ cho chúng ta nhận ra được rất nhiều điều. Yêu nhau, vun vén hạnh phúc và cùng nỗ lực vượt qua những khó khăn trong cuộc sống. Chúng ta từ 2 con người xa lạ mà bước vào cuộc đời nhau. Và giờ đây chúng ta tiếp tục cùng nhau sang trang mới. Giây phút anh ngỏ lời “Làm vợ anh nhé!”, em đã nguyện ý đời này, đi đâu cũng được, miễn là cùng anh.</p>
+                                    <p>Trong quán ăn lãng mạn vào sinh nhật của tôi, anh quỳ xuống trước đám đông, tặng tôi một chiếc hộp nhỏ. 
+                                        Ánh đèn tắt, chỉ còn một ngọn nến phát sáng. 
+                                        "Em là người đặc biệt nhất trong cuộc đời anh. Em đồng ý làm vợ anh không?" 
+                                        Anh cầu hôn, tôi không kìm được nước mắt. 
+                                        Trái tim vỡ òa trong hạnh phúc, tôi gật đầu. 
+                                        Quán reo lên tiếng vỗ tay, tất cả chúc mừng. 
+                                        Khoảnh khắc đó, với anh và với tôi, là một giây phút hạnh phúc đến bất ngờ và xúc động.
+                                    </p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="year" data-animation-direction="from-top" data-animation-delay="250">
-                        <span class="neela-style">July 28 2018</span>
+                        <span class="neela-style">March 31 2024</span>
                     </div>
                     <div class="gallery-container">
                         <div class="timeline-gallery-wrapper" data-animation-direction="from-left" data-animation-delay="250">
@@ -93,7 +113,11 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                             <div class="description">
                                 <div class="neela-style">
                                     <h4>Ngày lễ đính hôn</h4>
-                                    <p>“Tiếng trái tim đôi ta đập thật nhanh. Thì thầm lời yêu thương. Ngày tình về chung đôi...” Sau bao nhiêu chờ đợi, cuối cùng ngày vui của chúng ta cũng tới rồi. Cảm ơn vì mình đã luôn là một phần trong cuộc sống của nhau. Em và anh không chỉ là người yêu mà chúng ta còn là tri kỷ. Ngày hôm nay, em sẽ là cô dâu của anh và sau này sẽ là mẹ của các con anh.</p>
+                                    <p>“Tiếng trái tim đôi ta đập thật nhanh. Thì thầm lời yêu thương. Ngày tình về chung đôi...” 
+                                        Sau bao nhiêu chờ đợi, cuối cùng ngày vui của chúng ta cũng tới rồi. 
+                                        Cảm ơn vì mình đã luôn là một phần trong cuộc sống của nhau. 
+                                        Em và anh không chỉ là người yêu mà chúng ta còn là tri kỷ. 
+                                        Ngày hôm nay, em sẽ là cô dâu của anh và sau này sẽ là mẹ của các con anh.</p>
                                 </div>
                             </div>
                         </div>

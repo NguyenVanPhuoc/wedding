@@ -9,10 +9,10 @@
                         <div class="content">
                             <h3>Nguyễn Văn Phước<small>(Tí)</small></h3>
                             <p>Là lập trình viên hiện đang công tác tại công ty Nitrotech Asia ở thành phố Đà Nẵng. 
-                                Là...<a class="button-see" data-src="{{ asset('images/TNQ06790.JPG') }}" 
+                                Là một người...<a class="button-see" data-src="{{ asset('images/TNQ06790.JPG') }}" 
                                 data-content="Là lập trình viên hiện đang công tác tại công ty Nitrotech Asia ở thành phố Đà Nẵng. 
                                 Là một người hiền lành nhưng lại hoạt bát. Luôn coi trọng tình cảm và yêu thương gia đình. 
-                                Với anh: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đối với mỗi con người. 
+                                Với quan điểm: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đối với mỗi con người. 
                                 Đó luôn là nơi tràn ngập tình yêu thương để ta trở về.”" 
                                 data-instagram="https://www.instagram.com/boys_phuoc"
                                 data-facebook="https://www.facebook.com/vanphuoc260797" data-name="Nguyễn Văn Phước"
@@ -38,11 +38,13 @@
                     <div class="hover-info neela-style">
                         <div class="content">
                             <h3>Nguyễn Thị Mỹ Thùy<small>(Mèo)</small></h3>
-                            <p>Cô gái đến từ xứ Huế mộng mơ, hiện đang sinh sống và làm việc tại Sài Gòn. Sau khi tốt nghiệp Học vi...<a class="button-see" data-src="{{ asset('images/TNQ06278.JPG') }}" 
-                                data-content="Cô gái đến từ xứ Huế mộng mơ, hiện đang sinh sống và làm việc tại Sài Gòn. 
-                                Sau khi tốt nghiệp Học viện Báo chí và Tuyên truyền, quyết tâm theo đuổi đam mê làm phóng viên du lịch. 
-                                Là một người hay cười nhưng lại sống nội tâm, thích đọc sách, trồng cây và yêu thiên nhiên. 
-                                Ngoài ra còn rất thích vẽ vời, nuôi mèo và nuôi ước mơ có cho mình một vườn hồng khoe sắc." 
+                            <p>Cô gái đến từ Đà Nẵng, là một thành phố đáng sống với biết bao vẻ đẹp mà bản thân chưa được khám phá. 
+                                Vốn yêu thích sự mới mẻ, mê cảnh đẹp...<a class="button-see" data-src="{{ asset('images/TNQ06278.JPG') }}" 
+                                data-content="Cô gái đến từ Đà Nẵng, là một thành phố đáng sống với biết bao vẻ đẹp mà bản thân chưa được khám phá. 
+                                Vốn yêu thích sự mới mẻ, mê cảnh đẹp thiên nhiên nên đã chọn tốt nghiệp ngành du lịch. 
+                                Mặc dù công việc hiện tại là nhập liệu cho một công ty nước ngoài, nhưng đam mê vẫn rực cháy, tạo nên tia sáng trong cuộc sống hàng ngày. 
+                                Với tính cách hòa nhã, luôn mang đến niềm vui và nụ cười cho mọi người xung quanh và đằng sau vẻ ngoài hạnh phúc đó là sự chân thành và quan tâm đặc biệt đối với gia đình, 
+                                bởi luôn tin rằng, trong trái tim mỗi người, gia đình luôn là nơi tỏa sáng nhất của tình yêu và bình an." 
                             data-instagram="https://www.instagram.com/mythuy142000?igsh=OGpzYXZxdWl6M3Nz&utm_source=qr" 
                             data-facebook="https://www.facebook.com/profile.php?id=100085647561242" data-name="Nguyễn Thị Mỹ Thùy" style="font-size:14px;cursor: pointer">Xem thêm<i class="bi bi-arrow-down-short"></i></a></p>
                             <ul class="sn-icons">
@@ -66,7 +68,7 @@
                     <div class="parent-infos">
                         <div class="parent-info"><span class="parent-title">Con ông:</span> <span class="parent-name">Nguyễn Văn Minh</span></div>
                         
-                        <div class="parent-info"><span class="parent-title">Con bà:</span> <span class="parent-name">Nguyễn Thị Hoa</span></div>
+                        <div class="parent-info"><span class="parent-title">Con bà:</span> <span class="parent-name">Trần Thị Hoa</span></div>
                     </div>
                     <div class="parent-infos">
                         <div class="parent-info"><span class="parent-title">Con ông:</span> <span class="parent-name">Nguyễn Văn Hiền</span></div>
