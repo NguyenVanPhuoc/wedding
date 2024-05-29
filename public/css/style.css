@@ -6057,12 +6057,10 @@ textarea.form-control {
 }
 
 .footer-logo small {
-    font-size: 12pt;
+    font-size: 20pt;
     position: relative;
-    top: -8px;
-    -khtml-opacity: 0.5;
-    -moz-opacity: 0.5;
-    opacity: .5
+    top: 13px;
+    display: block;
 }
 
 #footer {

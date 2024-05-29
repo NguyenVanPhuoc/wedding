@@ -5,6 +5,9 @@ jQuery(document).ready(function($) {
     $('#email').change(function() {
         $('.error-email').html('');
     });
+    $('#content').change(function() {
+        $('.error-content').html('');
+    });
     $('#frm-happy').submit(function(e) { 
         e.preventDefault();
         var URL = $(this).attr('action');
@@ -20,6 +23,7 @@ jQuery(document).ready(function($) {
             },
             success: function (data) {
                 $('#data_loading').hide();
+                $('.error-book').html('');
                 var response = data.happy;
                 $('.wish-box').prepend(`<div class="wish-box-item">
                     <strong>${response.name}</strong>
@@ -35,6 +39,9 @@ jQuery(document).ready(function($) {
                 }
                 if(error?.responseJSON?.errors?.email) {
                     $('.error-email').append(`<span class="text-danger">${error?.responseJSON?.errors?.email[0]}</span>`)
+                }
+                if(error?.responseJSON?.errors?.content) {
+                    $('.error-content').append(`<span class="text-danger">${error?.responseJSON?.errors?.content[0]}</span>`)
                 }
             }
         });
