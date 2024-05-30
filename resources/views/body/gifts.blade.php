@@ -1,4 +1,4 @@
-<section id="giftregistry" class="parallax-background section-bg-color" style="padding:135px 0; background-image: url({{ asset('images/TNQ06712.JPG') }});">
+<section id="giftregistry" class="parallax-background section-bg-color" style="padding:135px 0; background-image: url({{ asset('images/TNQ06543.JPG') }});">
     <div class="section-divider-top-4 off-section"></div>
    <div class="container">
        <div class="row">

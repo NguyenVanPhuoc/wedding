@@ -21,7 +21,7 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                         <div class="timeline-gallery-wrapper" data-animation-direction="from-left" data-animation-delay="250">
                             <div class="timeline-gallery-del">
                                 <div class="item text-center">
-                                    <img src="{{ asset('images/TNQ06060.JPG') }}" class="w-100 h-auto" style="max-width:500px;" />
+                                    <img src="{{ asset('images/TNQ06543.JPG') }}" class="w-100 h-auto" style="max-width:500px;" />
                                 </div>
                             </div>
                         </div>
@@ -49,7 +49,7 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                         <div class="timeline-gallery-wrapper" data-animation-direction="from-left" data-animation-delay="250">
                             <div class="timeline-gallery-del">
                                 <div class="item text-center">
-                                    <img src="{{ asset('images/TNQ06121.JPG') }}" alt="Lời Tỏ Tình Qua Món Bún Mắm^^" class="w-100 h-auto" style="max-width:500px;" />
+                                    <img src="{{ asset('images/TNQ06241.JPG') }}" alt="Lời Tỏ Tình Qua Món Bún Mắm^^" class="w-100 h-auto" style="max-width:500px;" />
                                 </div>
                             </div>
                         </div>
@@ -104,7 +104,7 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                         <div class="timeline-gallery-wrapper" data-animation-direction="from-left" data-animation-delay="250">
                             <div class="timeline-gallery-del">
                                 <div class="item text-center">
-                                    <img src="{{ asset('images/TNQ06135.JPG') }}" alt="Ngày lễ đính hôn" class="w-100 h-auto" style="max-width:500px;" />
+                                    <img src="{{ asset('images/TNQ06086.JPG') }}" alt="Ngày lễ đính hôn" class="w-100 h-auto" style="max-width:500px;" />
                                 </div>
                             </div>
                         </div>

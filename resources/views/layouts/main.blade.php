@@ -32,31 +32,31 @@
         var photoGalleries = [];
     </script>
 <body>
-<!-- BEGIN PRELOADER -->
-<div id="preloader">
-    <div class="loading-heart">
-        <svg viewBox="0 0 512 512" width="100">
-            <path
-                d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z" />
-        </svg>
-        <div class="preloader-title">
-            Phước<br><i class="fa fa-heart"></i><br>Thùy
+    <!-- BEGIN PRELOADER -->
+    <div id="preloader">
+        <div class="loading-heart">
+            <svg viewBox="0 0 512 512" width="100">
+                <path
+                    d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z" />
+            </svg>
+            <div class="preloader-title">
+                Phước<br><i class="fa fa-heart"></i><br>Thùy
+            </div>
         </div>
     </div>
-</div>
-<!-- END PRELOADER -->
-<div id="wrapper">   
-    @include('layouts.header')  
-    <div class="langding-page">
-        @yield('content') 
+    <!-- END PRELOADER -->
+    <div id="wrapper">   
+        @include('layouts.header')  
+        <div class="langding-page">
+            @yield('content') 
+        </div>
+        @include('layouts.footer')                 
     </div>
-    @include('layouts.footer')                 
-</div>
-<!-- Script -->
+    <!-- Script -->
     <script>
-        var slide1 = "{{ asset('images/TNQ06256.JPG') }}";
-        var slide2 = "{{ asset('images/TNQ05996.JPG') }}";
-        var slide3 = "{{ asset('images/TNQ06507.JPG') }}";
+        var slide1 = "{{ asset('images/TNQ06589.JPG') }}";
+        var slide2 = "{{ asset('images/TNQ05953.JPG') }}";
+        var slide3 = "{{ asset('images/TNQ06426.JPG') }}";
         var music = "{{ asset('images/IDo-911.mp3') }}"
         var slidehow_images = [slide1, slide2, slide3];
         var custom_color = "#747BA9";

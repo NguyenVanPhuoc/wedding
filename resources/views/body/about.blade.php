@@ -4,12 +4,12 @@
             <div class="element col-md-6 col-xl-4 offset-xl-2" data-animation-direction="from-left"
                 data-animation-delay="300">
                 <div class="image">
-                    <img src="{{ asset('images/TNQ06790.JPG') }}" alt="" width="600" height="714" />
+                    <img src="{{ asset('images/TNQ06347.JPG') }}" alt="" width="600" height="714" />
                     <div class="hover-info neela-style">
                         <div class="content">
                             <h3>Nguyễn Văn Phước<small>(Tí)</small></h3>
                             <p>Là lập trình viên hiện đang công tác tại công ty Nitrotech Asia ở thành phố Đà Nẵng. 
-                                Là một người...<a class="button-see" data-src="{{ asset('images/TNQ06790.JPG') }}" 
+                                Là một người...<a class="button-see" data-src="{{ asset('images/TNQ06347.JPG') }}" 
                                 data-content="Là lập trình viên hiện đang công tác tại công ty Nitrotech Asia ở thành phố Đà Nẵng. 
                                 Là một người hiền lành nhưng lại hoạt bát. Luôn coi trọng tình cảm và yêu thương gia đình. 
                                 Với quan điểm: “Gia đình là điểm tựa vững chắc nhất và là bến đỗ bình yên không đâu sánh bằng đối với mỗi con người. 
@@ -34,12 +34,12 @@
             <div class="element col-md-6 col-xl-4" data-animation-direction="from-right"
                 data-animation-delay="400">
                 <div class="image">
-                    <img src="{{ asset('images/TNQ06278.JPG') }}" alt="" width="600" height="714" />
+                    <img src="{{ asset('images/TNQ06218.JPG') }}" alt="" width="600" height="714" />
                     <div class="hover-info neela-style">
                         <div class="content">
                             <h3>Nguyễn Thị Mỹ Thùy<small>(Mèo)</small></h3>
                             <p>Cô gái đến từ Đà Nẵng, là một thành phố đáng sống với biết bao vẻ đẹp mà bản thân chưa được khám phá. 
-                                Vốn yêu thích sự mới mẻ, mê cảnh đẹp...<a class="button-see" data-src="{{ asset('images/TNQ06278.JPG') }}" 
+                                Vốn yêu thích sự mới mẻ, mê cảnh đẹp...<a class="button-see" data-src="{{ asset('images/TNQ06218.JPG') }}" 
                                 data-content="Cô gái đến từ Đà Nẵng, là một thành phố đáng sống với biết bao vẻ đẹp mà bản thân chưa được khám phá. 
                                 Vốn yêu thích sự mới mẻ, mê cảnh đẹp thiên nhiên nên đã chọn tốt nghiệp ngành du lịch. 
                                 Mặc dù công việc hiện tại là nhập liệu cho một công ty nước ngoài, nhưng đam mê vẫn rực cháy, tạo nên tia sáng trong cuộc sống hàng ngày. 

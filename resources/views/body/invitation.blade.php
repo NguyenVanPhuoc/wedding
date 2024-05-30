@@ -1,4 +1,4 @@
-<section id="invitation" class="parallax-background bg-color-overlay padding-divider-top section-divider-bottom-1" style="background-image: url({{ asset('images/TNQ06146.JPG') }});">
+<section id="invitation" class="parallax-background bg-color-overlay padding-divider-top section-divider-bottom-1" style="background-image: url({{ asset('images/TNQ06719.JPG') }});">
     <div class="section-divider-top-1 off-section"></div>
     <div class="container">
         <div class="row">
