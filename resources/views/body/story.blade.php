@@ -85,13 +85,10 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                             <div class="description">
                                 <div class="neela-style">
                                     <h4>Phút giây cầu hôn</h4>
-                                    <p>Trong quán ăn lãng mạn vào sinh nhật của tôi, anh quỳ xuống trước đám đông, tặng tôi một chiếc hộp nhỏ. 
-                                        Ánh đèn tắt, chỉ còn một ngọn nến phát sáng. 
-                                        "Em là người đặc biệt nhất trong cuộc đời anh. Em đồng ý làm vợ anh không?" 
-                                        Anh cầu hôn, tôi không kìm được nước mắt. 
-                                        Trái tim vỡ òa trong hạnh phúc, tôi gật đầu. 
-                                        Quán reo lên tiếng vỗ tay, tất cả chúc mừng. 
-                                        Khoảnh khắc đó, với anh và với tôi, là một giây phút hạnh phúc đến bất ngờ và xúc động.
+                                    <p>Trong quán ăn lãng mạn vào sinh nhật của tôi, anh quỳ xuống, tặng tôi chiếc hộp nhỏ. 
+                                        Ánh đèn tắt, chỉ còn một ngọn nến. "Em đồng ý làm vợ anh không?" 
+                                        Tôi không kìm được nước mắt, gật đầu. Tiếng vỗ tay vang lên khắp quán, tất cả chúc mừng. 
+                                        Đó là khoảnh khắc hạnh phúc và xúc động.
                                     </p>
                                 </div>
                             </div>

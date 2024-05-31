@@ -14,8 +14,8 @@
                             <h3>Nguyễn Thị Thùy Uyên<small>Phụ dâu</small></h3>
                             <p>Cô gái đến từ thành phố Đà Nẵng, nơi được biết đến là một trong những thành phố tươi xanh và đáng sống nhất Việt Nam. Với phẩm chất nết na, thùy mị...<a class="button-see" data-src="{{ asset('images/uyen.jpg') }}" 
                                 data-content="Cô gái đến từ thành phố Đà Nẵng, nơi được biết đến là một trong những thành phố tươi xanh và đáng sống nhất Việt Nam. Với phẩm chất nết na, thùy mị, cô còn nổi bật với nhiều tài lẻ. Cô biết nấu ăn, cắm hoa, thêu thùa và may vá, những kỹ năng truyền thống và tinh tế. Những phẩm chất và tài năng này không chỉ thể hiện sự khéo léo và tinh tế mà còn tôn lên vẻ đẹp dịu dàng và duyên dáng của cô." 
-                                data-instagram="" data-twitter="" 
-                                data-facebook="" data-name="Nguyễn Thị Thùy Uyên" style="font-size:14px;cursor: pointer">Xem thêm<i class="bi bi-arrow-down-short"></i></a></p>
+                                data-instagram=""
+                                data-facebook="https://www.facebook.com/profile.php?id=100034411123838" data-name="Nguyễn Thị Thùy Uyên" style="font-size:14px;cursor: pointer">Xem thêm<i class="bi bi-arrow-down-short"></i></a></p>
                             <ul class="sn-icons"></ul>
                         </div>
                     </div>
@@ -29,8 +29,8 @@
                             <h3>Nguyễn Thị Hoàng Thơ<small>Phụ dâu</small></h3>
                             <p>Cô gái Đà Nẵng thân thiện, hay cười và dễ giao tiếp, luôn mang lại sự gần gũi và ấm áp cho mọi người xung quanh. Mặc dù dễ dàng ...<a class="button-see" data-src="{{ asset('images/tho.jpg') }}" 
                                 data-content="Cô gái Đà Nẵng thân thiện, hay cười và dễ giao tiếp, luôn mang lại sự gần gũi và ấm áp cho mọi người xung quanh. Mặc dù dễ dàng hòa nhập với đám đông, cô lại có sở thích tìm kiếm những khoảnh khắc yên tĩnh một mình để thư giãn và suy tư. Cô thường hướng về những thói quen và sở thích mang tính hiện đại, nhưng vẫn giữ được một chút nét truyền thống. Sự kết hợp hài hòa giữa hiện đại và truyền thống này thể hiện sự tinh tế và đa chiều trong phong cách sống của cô." 
-                                data-instagram="" data-twitter="" 
-                                data-facebook="" data-name="Nguyễn Thị Hoàng Thơ" style="font-size:14px;cursor: pointer">Xem thêm<i class="bi bi-arrow-down-short"></i></a></p>
+                                data-instagram=""
+                                data-facebook="https://www.facebook.com/profile.php?id=100013203674494" data-name="Nguyễn Thị Hoàng Thơ" style="font-size:14px;cursor: pointer">Xem thêm<i class="bi bi-arrow-down-short"></i></a></p>
                             <ul class="sn-icons"></ul>
                         </div>
                     </div>
