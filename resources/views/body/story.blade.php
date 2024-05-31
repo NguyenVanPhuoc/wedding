@@ -59,11 +59,13 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                                 <div class="neela-style">
                                     <h4>Lời Tỏ Tình Qua Món Bún Mắm^^</h4>
                                     <p>
-                                        Hôm ấy, anh ấy mời tôi đi ăn bún mắm, món mà tôi rất thích. 
-                                        Khi chúng tôi ngồi xuống, anh cười ngại ngùng và nói: "Tớ nghe nói cậu rất thích bún mắm, nên hôm nay mời cậu đến quán này." 
-                                        Khi bát bún mắm được mang ra, anh lấy hết can đảm nhìn tôi và nói: 
-                                        "Như bún mắm là món ăn yêu thích của cậu, tớ cũng mong được trở thành người quan trọng trong lòng cậu. Cậu có muốn làm bạn gái tớ không?" 
-                                        Tôi cười, trái tim rộn ràng và gật đầu đồng ý, cảm thấy hạnh phúc ngập tràn trong hương vị đậm đà của món ăn yêu thích.
+                                        Hôm ấy, anh mời tôi đi ăn bún mắm. Khi bát bún được mang ra, anh nói: "Cậu thích bún mắm, còn tớ thích cậu. Làm bạn gái tớ nhé?"
+
+                                        Tôi cười: "Đồng ý, nhưng nem và chả của tớ thì cậu không được đụng vào!"
+
+                                        Anh phá lên cười: "Thỏa thuận! Nem và chả của cậu là bất khả xâm phạm!"
+
+                                        Thế là bún mắm thành "hiệp ước tình yêu" của chúng tôi.
                                     </p>
                                 </div>
                             </div>

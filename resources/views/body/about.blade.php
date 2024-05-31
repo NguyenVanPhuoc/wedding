@@ -7,7 +7,7 @@
                     <img src="{{ asset('images/TNQ06347.JPG') }}" alt="" width="600" height="714" />
                     <div class="hover-info neela-style">
                         <div class="content">
-                            <h3>Nguyễn Văn Phước<small>(Tí)</small></h3>
+                            <h3>Nguyễn Văn Phước</h3>
                             <p>Là lập trình viên hiện đang công tác tại công ty Nitrotech Asia ở thành phố Đà Nẵng. 
                                 Là một người...<a class="button-see" data-src="{{ asset('images/TNQ06347.JPG') }}" 
                                 data-content="Là lập trình viên hiện đang công tác tại công ty Nitrotech Asia ở thành phố Đà Nẵng. 
@@ -37,7 +37,7 @@
                     <img src="{{ asset('images/TNQ06218.JPG') }}" alt="" width="600" height="714" />
                     <div class="hover-info neela-style">
                         <div class="content">
-                            <h3>Nguyễn Thị Mỹ Thùy<small>(Mèo)</small></h3>
+                            <h3>Nguyễn Thị Mỹ Thùy</h3>
                             <p>Cô gái đến từ Đà Nẵng, là một thành phố đáng sống với biết bao vẻ đẹp mà bản thân chưa được khám phá. 
                                 Vốn yêu thích sự mới mẻ, mê cảnh đẹp...<a class="button-see" data-src="{{ asset('images/TNQ06218.JPG') }}" 
                                 data-content="Cô gái đến từ Đà Nẵng, là một thành phố đáng sống với biết bao vẻ đẹp mà bản thân chưa được khám phá. 
