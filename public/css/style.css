@@ -930,7 +930,7 @@ p.center {
 #groomsmen, #bridesmaids  {
     width: 100%;
     background-attachment: fixed;
-    background-repeat: space;
+    background-repeat: repeat;
     -webkit-background-size: contain;
     background-size: contain;
 }
