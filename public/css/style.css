@@ -924,7 +924,15 @@ p.center {
     background-attachment: fixed;
     background-repeat: repeat-y;
     -webkit-background-size: cover;
-    background-size: cover
+    background-size: cover;
+}
+
+#groomsmen, #bridesmaids  {
+    width: 100%;
+    background-attachment: fixed;
+    background-repeat: space;
+    -webkit-background-size: contain;
+    background-size: contain;
 }
 
 .owl-carousel {
