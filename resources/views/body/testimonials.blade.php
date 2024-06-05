@@ -6,11 +6,11 @@
                 <div id="testimonials-slider" class="owl-carousel testimonials light"
                     data-animation-direction="from-bottom" data-animation-delay="300">
                     <div class="item">
-                        <blockquote>Tôi không muốn một mối quan hệ… khi mà mọi người nhìn vào rồi nói: “Họ thật đẹp khi bên nhau.”Mà tôi muốn một mối quan hệ… khi mọi người nhìn vào và ngưỡng mộ nói: “Họ thật hạnh phúc khi bên nhau.”</blockquote>
+                        <blockquote>Tôi không muốn một mối quan hệ khi mà mọi người nhìn vào rồi nói: “Họ thật đẹp khi bên nhau.” Mà tôi muốn một mối quan hệ khi mọi người nhìn vào và ngưỡng mộ nói: “Họ thật hạnh phúc khi bên nhau.”</blockquote>
                     </div>
 
                     <div class="item">
-                        <blockquote>Tình yêu là một phần tạo nên linh hồn. Yêu có cùng bản chất với linh hồn. Giống như linh hồn, yêu cũng là hỏa tinh của thần; giống như linh hồn, yêu không bị ăn mòn, không thể chia tách, không hề khô héo.</blockquote>
+                        <blockquote>Tình yêu là một phần tạo nên linh hồn. Yêu có cùng bản chất với linh hồn. Giống như linh hồn, yêu cũng là hỏa tinh của thần, giống như linh hồn, yêu không bị ăn mòn, không thể chia tách, không hề khô héo.</blockquote>
                     </div>
 
                     <div class="item">

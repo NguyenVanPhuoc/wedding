@@ -61,7 +61,7 @@
         var slidehow_images = [slide1, slide2, slide3];
         var custom_color = "#747BA9";
         const biicore = {template_id: '644000ba4f8e0c7ddf09c709', templatePremium: ('1' === '1'), isPremium: ('1' === '1'), 
-        bgMusic: music, alert: JSON.parse('{\"title\":\"L\\u1eddi c\\u1ea3m \\u01a1n t\\u1eeb D\\u00e2u & R\\u1ec3\",\"content\":\"Xin ch\\u00e2n th\\u00e0nh c\\u1ea3m \\u01a1n to\\u00e0n th\\u1ec3 m\\u1ecdi ng\\u01b0\\u1eddi \\u0111\\u00e3 g\\u1eedi l\\u1eddi ch\\u00fac cho v\\u1ee3 ch\\u1ed3ng ch\\u00fang em!\",\"timeout\":5000,\"status\":2,\"cancel_button_text\":\"\"}'), effect: JSON.parse('{\"type\":\"snow\"}')};
+        bgMusic: music, effect: JSON.parse('{\"type\":\"snow\"}')};
     </script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="{{ asset('js/all.min.js') }}"></script>

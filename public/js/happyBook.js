@@ -1,4 +1,25 @@
 jQuery(document).ready(function($) {
+    // // Ngăn chặn nhấn chuột phải
+    // $(document).on("contextmenu", function(e) {
+    //     e.preventDefault();
+    // });
+
+    // // Ngăn chặn nhấn F12 và các phím chức năng khác
+    // $(document).keydown(function(e) {
+    //     if (e.keyCode == 123) { // F12
+    //         return false;
+    //     }
+    //     if (e.ctrlKey && e.shiftKey && e.keyCode == 73) { // Ctrl+Shift+I
+    //         return false;
+    //     }
+    //     if (e.ctrlKey && e.shiftKey && e.keyCode == 74) { // Ctrl+Shift+J
+    //         return false;
+    //     }
+    //     if (e.ctrlKey && e.keyCode == 85) { // Ctrl+U
+    //         return false;
+    //     }
+    // });
+
     $('#name').change(function() {
         $('.error-name').html('');
     });
@@ -10,6 +31,7 @@ jQuery(document).ready(function($) {
     });
     $('#frm-happy').submit(function(e) { 
         e.preventDefault();
+        $('.error-book').html('');
         var URL = $(this).attr('action');
         var formData = new FormData(this); 
         $.ajax({

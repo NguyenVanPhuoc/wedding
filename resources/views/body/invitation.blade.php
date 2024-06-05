@@ -7,7 +7,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 center">
+            <div class="col-md-12 col-lg-10 offset-lg-1 col-xl-10 offset-xl-2 center">
                 <div class="invite neela-style" data-animation-direction="from-left" data-animation-delay="100">
                     <div class="invite_title">
                         <div class="text">
