@@ -1,4 +1,4 @@
-<section id="groomsmen" class="parallax-background bg-color-overlay" style="background-image: url({{ asset('images/TNQ06560.JPG') }})">
+<section id="groomsmen" class="parallax-background bg-color-overlay" style="background-image: url({{ asset('images/TNQ06121.JPG') }})">
     <div class="container">
         <div class="row">
             <div class="col-sm-12">
