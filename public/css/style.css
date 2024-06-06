@@ -5843,7 +5843,7 @@ section.side-flowers {
 .form-select {
     background-color: #fbfbfb;
     border: 1px solid #e1e1e1;
-    color: #73777b;
+    color: #212529;
     height: auto;
     padding: 11px 20px;
     -webkit-border-radius: 0;
@@ -7445,8 +7445,8 @@ textarea.form-control {
     }
 
     #invitation .invite .invite_info h2 {
-        font-size: 28pt;
-        max-width: 200px;
+        font-size: 24pt !important;
+        max-width: 250px;
         margin: 0 auto;
     }
 
@@ -7462,6 +7462,10 @@ textarea.form-control {
 
     .wedding-gifts li:hover .info {
         top: 10px;
+    }
+
+    .section-desc {
+        padding: 0 25px !important;
     }
 
 }
