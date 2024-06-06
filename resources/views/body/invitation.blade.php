@@ -18,7 +18,7 @@
                     <div class="invite_info px-2 px-lg-4">
                         <h2 class="fs-1">Nguyễn Phước <small>&</small> Mỹ Thùy</h2>
 
-                        <div>Một lời chúc của bạn chắc chắn sẽ làm cho đám cưới của chúng tôi có thêm một niềm hạnh phúc!</div>
+                        <div class="note">Một lời chúc của bạn chắc chắn sẽ làm cho đám cưới của chúng tôi có thêm một niềm hạnh phúc!</div>
                         <div class="center m-0 mt-2">
                             <a href="#rsvp" class="btn btn-primary reverse scrollto text-white px-2" style="min-width:240px;max-width:240px;">Gửi lời chúc</a>
                         </div>

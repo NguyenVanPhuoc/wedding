@@ -10,10 +10,10 @@
                             <h3>Nguyễn Văn Phước</h3>
                             <p>Giữa lòng thành phố biển Đà Nẵng đầy nắng gió, tôi tự hào là một lập trình viên năng động tại công ty Nitrotech Asia. 
                                 Là một người...<a class="button-see" data-src="{{ asset('images/TNQ06347.JPG') }}" 
-                                data-content="Giữa lòng thành phố biển Đà Nẵng đầy nắng gió, tôi tự hào là một lập trình viên năng động tại công ty Nitrotech Asia. 
-                                Là một người hiền lành, vui tươi và tràn đầy nhiệt huyết, tôi luôn đặt tình cảm và gia đình lên hàng đầu. 
-                                Đối với tôi, gia đình không chỉ là nơi chốn mà là thiên đường nhỏ bé, là điểm tựa vững chãi nhất giữa dòng đời sóng gió. 
-                                “Gia đình là nơi tình yêu thương luôn đong đầy, là bến đỗ bình yên mà không nơi nào có thể sánh bằng.” 
+                                data-content="Giữa lòng thành phố biển Đà Nẵng đầy nắng gió, tôi tự hào là một lập trình viên năng động tại công ty Nitrotech Asia.
+                                Là một người năng động, chân thành, vui tươi và tràn đầy nhiệt huyết, tôi luôn đặt tình cảm và gia đình lên hàng đầu. 
+                                Đối với tôi, gia đình không chỉ là nơi chốn mà còn là thiên đường nhỏ bé, là điểm tựa vững chãi nhất giữa dòng đời sóng gió.
+                                “Gia đình là nơi tình yêu thương luôn đong đầy, là bến đỗ bình yên mà không nơi nào có thể sánh bằng.”
                                 Chính tình yêu thương ấy đã và đang là nguồn cảm hứng vô tận, tiếp thêm sức mạnh để tôi vững bước trên hành trình khám phá và chinh phục những tầm cao mới.”" 
                                 data-instagram="https://www.instagram.com/boys_phuoc"
                                 data-facebook="https://www.facebook.com/vanphuoc260797" data-name="Nguyễn Văn Phước"

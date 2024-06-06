@@ -7436,6 +7436,36 @@ textarea.form-control {
     }
 }
 
+@media (max-width:414px) {
+    .gallery-container .timeline-gallery-wrapper .item > img {
+        max-width: 330px !important;
+    }
+    .wedding-gifts li .event-item-content div.d-inline-block {
+        flex: 0 0 100%;
+    }
+
+    #invitation .invite .invite_info h2 {
+        font-size: 28pt;
+        max-width: 200px;
+        margin: 0 auto;
+    }
+
+    #invitation .invite .invite_info h2 small {
+        font-size: 18pt;
+        display: block;
+    }
+
+    .invite_info .note {
+        display: block;
+        margin-top: 15px;
+    }
+
+    .wedding-gifts li:hover .info {
+        top: 10px;
+    }
+
+}
+
 @media (max-width:1199px) {
     .parallax-background {
         background-attachment: scroll !important
@@ -7535,7 +7565,7 @@ textarea.form-control {
 	width: 25%;
 	min-width: 50px;
 	text-align: center;
-	padding: 30px 10px 0;
+	padding: 10px 10px 0;
 }
 #clock .box, #clock .box > div, #clock .box > span{display:block;}
 #clock .box > div {
