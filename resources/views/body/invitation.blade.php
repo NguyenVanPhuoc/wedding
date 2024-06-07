@@ -24,7 +24,12 @@
                         </div>
                         <div class="date">08 Tháng 07 Năm 2024</div>
                         <div class="count-down-clock">
-                            <div id="clock" data-date="2024-07-08" data-text-day="Ngày" data-text-hour="Giờ" data-text-minute="Phút" data-text-second="Giây"></div>
+                            <div id="clock" data-date="2024-07-08" data-text-day="Ngày" data-text-hour="Giờ" data-text-minute="Phút" data-text-second="Giây">
+                                <div class="box"><div>0</div> <span>Ngày</span></div>
+                                <div class="box"><div>0</div> <span>Giờ</span></div>
+                                <div class="box"><div>0</div> <span>Phút</span></div>
+                                <div class="box"><div>0</div> <span>Giây</span></div>
+                            </div>
                         </div>
                     </div>
                 </div>
