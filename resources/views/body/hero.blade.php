@@ -7,7 +7,7 @@
 
                     <h1 class="hero-title light ">
                         <span class="d-block d-sm-inline" data-animation-direction="from-right" data-animation-delay="300">Nguyễn Phước</span>
-                        <small class="d-block d-sm-inline" data-animation-direction="from-top" data-animation-delay="300">&</small>
+                        <small class="d-block d-sm-inline" data-animation-direction="from-top" data-animation-delay="300"><i class="fa fa-heart"></i></small>
                         <span class="d-block d-sm-inline" data-animation-direction="from-left" data-animation-delay="300">Mỹ Thùy</span>
                     </h1>
 
