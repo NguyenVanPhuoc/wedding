@@ -11,10 +11,6 @@
                             <div class="error-name error-book"></div>
                         </div>
 
-                        <div class="form-group">
-                            <input type="email" id="email" name="email" placeholder="E-mail" class="form-control">
-                            <div class="error-email error-book"></div>
-                        </div>
                         <div>
                             <div class="textarea-emoji-picker">
                                 <div class="vitualTextarea">

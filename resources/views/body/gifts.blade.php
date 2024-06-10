@@ -19,7 +19,7 @@
                                </div>
                            </div>
 
-                           <div class="info">
+                           <div class="info text-center">
                                <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                    <div class="atcb" style="display:none;">
                                    {
@@ -57,7 +57,7 @@
                                </div>
                            </div>
 
-                           <div class="info">
+                           <div class="info text-center">
                                <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                    <div class="atcb" style="display:none;">
                                    {
@@ -96,7 +96,7 @@
                                </div>
                            </div>
 
-                           <div class="info">
+                           <div class="info text-center">
                                <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                    <div class="atcb" style="display:none;">
                                    {
@@ -134,7 +134,7 @@
                                </div>
                            </div>
 
-                           <div class="info">
+                           <div class="info text-center">
                                <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                    <div class="atcb" style="display:none;">
                                    {

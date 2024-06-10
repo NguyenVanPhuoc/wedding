@@ -23,9 +23,6 @@ jQuery(document).ready(function($) {
     $('#name').change(function() {
         $('.error-name').html('');
     });
-    $('#email').change(function() {
-        $('.error-email').html('');
-    });
     $('#content').change(function() {
         $('.error-content').html('');
     });
@@ -58,9 +55,6 @@ jQuery(document).ready(function($) {
                 $('#data_loading').hide();
                 if(error?.responseJSON?.errors?.name) {
                     $('.error-name').append(`<span class="text-danger">${error?.responseJSON?.errors?.name[0]}</span>`)
-                }
-                if(error?.responseJSON?.errors?.email) {
-                    $('.error-email').append(`<span class="text-danger">${error?.responseJSON?.errors?.email[0]}</span>`)
                 }
                 if(error?.responseJSON?.errors?.content) {
                     $('.error-content').append(`<span class="text-danger">${error?.responseJSON?.errors?.content[0]}</span>`)

@@ -14,7 +14,7 @@ class WeddingController extends Controller
      */
     public function index()
     {
-        $contents = HappyBook::select('name', 'email', 'content')->orderBy('created_at', 'desc')->get();
+        $contents = HappyBook::select('name', 'content')->orderBy('created_at', 'desc')->get();
         return view('wedding', compact('contents'));
     }
 
@@ -28,7 +28,7 @@ class WeddingController extends Controller
     {
         $params = $request->all();
         $result = HappyBook::create($params);
-        $happy = HappyBook::select('name', 'email', 'content')->where('id', $result->id)->first();
+        $happy = HappyBook::select('name', 'content')->where('id', $result->id)->first();
         return response()->json(['status' => 'success', 'happy' => $happy]);
     }
 }
