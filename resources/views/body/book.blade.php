@@ -6,6 +6,10 @@
                     <h1 class="section-title">Sổ Lưu Bút</h1>
                     <form id="frm-happy" action="{{ route('happy_book') }}" class="form validate-rsvp-form row" method="POST">
                         @csrf
+                        <div id="honeypot">
+                            <input type="hidden" name="honeypot" value="">
+                        </div>
+
                         <div class="form-group">
                             <input type="text" id="name" name="name" placeholder="Tên của bạn*" class="form-control">
                             <div class="error-name error-book"></div>
@@ -73,7 +77,7 @@
                         @foreach($contents as $key => $item)
                             <div class="wish-box-item">
                                 <strong>{{ $item->name }}</strong>
-                                <div class="content">{{ $item->content }}</div>
+                                <div class="content">{!! $item->content !!}</div>
                             </div>
                         @endforeach
                     </div>

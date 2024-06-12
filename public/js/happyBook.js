@@ -26,6 +26,14 @@ jQuery(document).ready(function($) {
     $('#content').change(function() {
         $('.error-content').html('');
     });
+
+     // Set up the CSRF token in AJAX headers
+    $.ajaxSetup({
+        headers: {
+            'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+        }
+    });
+
     $('#frm-happy').submit(function(e) { 
         e.preventDefault();
         $('.error-book').html('');

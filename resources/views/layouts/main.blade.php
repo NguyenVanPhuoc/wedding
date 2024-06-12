@@ -5,7 +5,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="format-detection" content="telephone=no">
-        <title>Nguyễn Phước &amp; Mỹ Thùy Wedding site!</title>
+        <meta name="csrf-token" content="{{ csrf_token() }}">
+        <title>Nguyễn Phước &amp; Mỹ Thùy </title>
         <meta name="description" content="Nguyễn Văn Phước &amp; Nguyễn Thị Mỹ Thùy">
         <meta name="keywords" content="Wedding,Nguyễn Văn Phước,Nguyễn Thị Mỹ Thùy">
         <!-- Google Web Fonts -->

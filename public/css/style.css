@@ -7957,6 +7957,13 @@ text-transform:uppercase;
 	display: inline-block;
 }
 
+#honeypot {
+    position: absolute;
+    left: -9999px;
+    top: -9999px;
+    visibility: hidden;
+}
+
 /* dresscode */
 .events-boxs .dresscode-colors-event{
     position: relative;
