@@ -69,7 +69,7 @@
                 <div class="parent-info-group">
                     <div class="parent-infos">
                         <div class="parent-info"><span class="parent-title">Con ông: </span> <span class="parent-name">Nguyễn Văn Minh</span></div>
-                        <div class="parent-info"><span class="parent-title">Con bà: </span> <span class="parent-name">Trần Thị Hoa</span></div>
+                        <div class="parent-info"><span class="parent-title">Con bà: </span> <span class="parent-name">Trần Thị Duyên</span></div>
                     </div>
                     <div class="parent-infos">
                         <div class="parent-info"><span class="parent-title">Con ông: </span> <span class="parent-name">Nguyễn Văn Hiền</span></div>
