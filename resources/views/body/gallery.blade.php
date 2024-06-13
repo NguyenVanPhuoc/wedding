@@ -91,59 +91,59 @@
                     </div>
                     <script type="text/javascript">
                         photoGalleries.push({
-                            src : "{{ asset('images/TNQ06039.JPG') }}",
-                            thumb: "{{ asset('images/TNQ06039.JPG') }}",
+                            src : "{{ asset('images/TNQ06233.JPG') }}",
+                            thumb: "{{ asset('images/TNQ06233.JPG') }}",
                             subHtml: `<div class="lg-sub-html"><h4>Được ai đó yêu sâu sắc sẽ mang lại cho bạn sức mạnh, trong khi yêu ai đó sâu sắc sẽ cho bạn dũng khí</h4></div>`
                         });
                     </script>
                         
                     <div class="grid grid-item btn-see-more-gallery" data-index="7">
-                        <img src="{{ asset('images/TNQ06039.JPG') }}" alt class="img img-responsive">
+                        <img src="{{ asset('images/TNQ06233.JPG') }}" alt class="img img-responsive">
                     </div>
                      <script type="text/javascript">
                         photoGalleries.push({
-                            src : "{{ asset('images/TNQ06333.JPG') }}",
-                            thumb: "{{ asset('images/TNQ06333.JPG') }}",
+                            src : "{{ asset('images/TNQ06235.JPG') }}",
+                            thumb: "{{ asset('images/TNQ06235.JPG') }}",
                             subHtml: `<div class="lg-sub-html"><h4>Đối với thế giới, bạn có thể là một người, nhưng với một người, bạn là cả thế giới</h4></div>`
                         });
                     </script>
                         
                     <div class="grid grid-item btn-see-more-gallery" data-index="8">
-                        <img src="{{ asset('images/TNQ06333.JPG') }}" alt class="img img-responsive">
+                        <img src="{{ asset('images/TNQ06235.JPG') }}" alt class="img img-responsive">
                     </div>
                     <script type="text/javascript">
                         photoGalleries.push({
-                            src : "{{ asset('images/TNQ06233.JPG') }}",
-                            thumb: "{{ asset('images/TNQ06233.JPG') }}",
+                            src : "{{ asset('images/TNQ06650.JPG') }}",
+                            thumb: "{{ asset('images/TNQ06650.JPG') }}",
                             subHtml: `<div class="lg-sub-html"><h4>Tôi yêu bạn vì tất cả những gì bạn đang có, tất cả những gì bạn đã có, và tất cả những gì bạn chưa hiện hữu</h4></div>`
                         });
                     </script>
                         
                     <div class="grid grid-item btn-see-more-gallery" data-index="9">
-                        <img src="{{ asset('images/TNQ06233.JPG') }}" alt class="img img-responsive">
+                        <img src="{{ asset('images/TNQ06650.JPG') }}" alt class="img img-responsive">
                     </div>
                     <script type="text/javascript">
                         photoGalleries.push({
-                            src : "{{ asset('images/TNQ06599.JPG') }}",
-                            thumb: "{{ asset('images/TNQ06599.JPG') }}",
+                            src : "{{ asset('images/TNQ06333.JPG') }}",
+                            thumb: "{{ asset('images/TNQ06333.JPG') }}",
                             subHtml: `<div class="lg-sub-html"><h4>Bước đi với bàn tay của bạn trong tay tôi và bàn tay của tôi trong tay bạn, đó chính xác là nơi tôi muốn luôn ở đó</h4></div>`
                         });
                     </script>
                         
                     <div class="grid grid-item btn-see-more-gallery" data-index="10">
-                        <img src="{{ asset('images/TNQ06599.JPG') }}" alt class="img img-responsive">
+                        <img src="{{ asset('images/TNQ06333.JPG') }}" alt class="img img-responsive">
                     </div>
 
                     <script type="text/javascript">
                         photoGalleries.push({
-                            src : "{{ asset('images/TNQ06650.JPG') }}",
-                            thumb: "{{ asset('images/TNQ06650.JPG') }}",
+                            src : "{{ asset('images/TNQ06039.JPG') }}",
+                            thumb: "{{ asset('images/TNQ06039.JPG') }}",
                             subHtml: `<div class="lg-sub-html"><h4>Tình yêu đâu phải vì tiền Tình yêu đâu phải ngẫu nhiên mà thành Tình yêu đâu phải tranh giành Tình yêu là phải chân thành, thủy chung!</h4></div>`
                         });
                     </script>
                         
                     <div class="grid grid-item btn-see-more-gallery" data-index="11">
-                        <img src="{{ asset('images/TNQ06650.JPG') }}" alt class="img img-responsive">
+                        <img src="{{ asset('images/TNQ06039.JPG') }}" alt class="img img-responsive">
                     </div>
                 </div>
 
