@@ -124,14 +124,14 @@
                     </div>
                     <script type="text/javascript">
                         photoGalleries.push({
-                            src : "{{ asset('images/TNQ06599.JPG') }}",
-                            thumb: "{{ asset('images/TNQ06599.JPG') }}",
+                            src : "{{ asset('images/TNQP06599.JPG') }}",
+                            thumb: "{{ asset('images/TNQP06599.JPG') }}",
                             subHtml: `<div class="lg-sub-html"><h4>Bước đi với bàn tay của bạn trong tay tôi và bàn tay của tôi trong tay bạn, đó chính xác là nơi tôi muốn luôn ở đó</h4></div>`
                         });
                     </script>
                         
                     <div class="grid grid-item btn-see-more-gallery" data-index="10">
-                        <img src="{{ asset('images/TNQ06599.JPG') }}" alt class="img img-responsive">
+                        <img src="{{ asset('images/TNQP06599.JPG') }}" alt class="img img-responsive">
                     </div>
 
                     <script type="text/javascript">
