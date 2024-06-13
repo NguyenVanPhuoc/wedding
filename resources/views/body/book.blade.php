@@ -6,15 +6,15 @@
                     <h1 class="section-title">Sổ Lưu Bút</h1>
                     <form id="frm-happy" action="{{ route('happy_book') }}" class="form validate-rsvp-form row" method="POST">
                         @csrf
-                        <div class="form-group">
-                            <input type="text" id="name" name="name" placeholder="Tên của bạn*" class="form-control">
-                            <div class="error-name"></div>
+                        <div id="honeypot">
+                            <input type="hidden" name="honeypot" value="">
                         </div>
 
                         <div class="form-group">
-                            <input type="email" id="email" name="email" placeholder="E-mail" class="form-control">
-                            <div class="error-email"></div>
+                            <input type="text" id="name" name="name" placeholder="Tên của bạn*" class="form-control">
+                            <div class="error-name error-book"></div>
                         </div>
+
                         <div>
                             <div class="textarea-emoji-picker">
                                 <div class="vitualTextarea">
@@ -41,7 +41,7 @@
                                                 <li><a class="showContent" href="#">Thật vui vì cuối cùng ngày này cũng tới với bạn. Tôi thành tâm chúc hai bạn thật nhiều hạnh phúc và sống đời vui vẻ cùng nhau mãi mãi!</a></li>
                                                 <li><a class="showContent" href="#">Một chương mới đã mở ra với hai bạn rồi. Tôi mong cuộc sống mới của cả hai sẽ tràn ngập hy vọng, hạnh phúc và niềm vui!</a></li>
                                                 <li><a class="showContent" href="#">Chúc đôi trai tài gái sắc hạnh phúc trọn vẹn, luôn yêu thương nhau thật nhiều!</a></li>
-                                                <li><a class="showContent" href="#">Chia vui cùng bạn trong ngày trọng đại này. Cầu mong cuộc sống sau này của 2 vợ chồng thật thuận hòa, may mắn, làm ăn phát tài nha.</a></li>
+                                                <li><a class="showContent" href="#">Chung vui cùng bạn trong ngày trọng đại này. Cầu mong cuộc sống sau này của 2 vợ chồng thật thuận hòa, may mắn, làm ăn phát tài nha.</a></li>
                                                 <li><a class="showContent" href="#">Tôi mong tình yêu của hai bạn thật bền chặt, gắn bó để xây dựng tổ ấm yên bình, hạnh phúc!</a></li>
                                                 <li><a class="showContent" href="#">Hai bạn của tôi chắc chắn sẽ có được nhiều hạnh phúc. Mong hai bạn có sức khỏe dồi dào, làm ăn phát đạt và sớm có cháu cho ông bà bồng bế nhé!</a></li>
                                                 <li><a class="showContent" href="#">Gửi lời chúc mừng chân thành nhất tới bạn của tôi. Chúc hai bạn một cuộc sống thật tuyệt vời, hòa thuận, gắn bó son sắt, thủy chung, hạnh phúc lâu dài.</a></li>
@@ -66,6 +66,7 @@
                                     </div>
                                 </div>
                             </div>
+                            <div class="error-content error-book"></div>
                         </div>
 
                         <div class="center">
@@ -76,7 +77,7 @@
                         @foreach($contents as $key => $item)
                             <div class="wish-box-item">
                                 <strong>{{ $item->name }}</strong>
-                                <div class="content">{{ $item->content }}</div>
+                                <div class="content">{!! $item->content !!}</div>
                             </div>
                         @endforeach
                     </div>

@@ -17,8 +17,8 @@
                                 <h4 class="fs-5">Mừng cưới đến chú rể</h4>
                                 <img class="qr-code-image m-auto mb-2" src="{{ asset('images/QRA.jpeg') }}">
                                 <p>Ngân hàng: <strong>ACB</strong></p>
-                                <p>Tên tài khoản: <strong>26175957</strong></p>
-                                <p>Số tài khoản: <strong>Nguyễn Văn Phước</strong></p>
+                                <p>Số tài khoản: <strong>26175957</strong></p>
+                                <p>Tên tài khoản: <strong>Nguyễn Văn Phước</strong></p>
                                 <p>Chi nhánh: <strong>Đà Nẵng</strong></p>
                                 <div class="cryptos-box-view">
                                     <div class="d-flex align-items-center h-100">
@@ -45,8 +45,8 @@
                                 <h4 class="fs-5">Mừng cưới đến cô dâu</h4>
                                 <img class="qr-code-image m-auto mb-2 " src="{{ asset('images/QRE.png') }}">
                                 <p>Ngân hàng: <strong>Vietcombank</strong></p>
-                                <p>Tên tài khoản: <strong>9762565773</strong></p>
-                                <p>Số tài khoản: <strong>Nguyễn Thị Mỹ Thùy</strong></p>
+                                <p>Số tài khoản: <strong>9762565773</strong></p>
+                                <p>Tên tài khoản: <strong>Nguyễn Thị Mỹ Thùy</strong></p>
                                 <p>Chi nhánh: <strong>Đà Nẵng</strong></p>
                                 <div class="cryptos-box-view">
                                     <div class="d-flex align-items-center h-100">

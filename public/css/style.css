@@ -46,12 +46,12 @@
 (min-device-pixel-ratio:1.3),
 (min-resolution:1.3dppx) {
     #our-story-title {
-        background-image: url("../images/our-story-background-img.jpg")
+        background-image: url("../images/TNQ06146.JPG")
     }
 }
 
 #invitation {
-    background-image: url("../images/invitation-background.jpg")
+    background-image: url("../images/TNQ06146.JPG")
 }
 
 @media (min--moz-device-pixel-ratio:1.3),
@@ -60,29 +60,8 @@
 (min-device-pixel-ratio:1.3),
 (min-resolution:1.3dppx) {
     #invitation {
-        background-image: url("../images/invitation-background.jpg")
+        background-image: url("../images/TNQ06146.JPG")
     }
-}
-
-#bmiadsgmen,
-#bridesmaids {
-    background-image: url("../images/bridesmaids-background.jpg")
-}
-
-@media (min--moz-device-pixel-ratio:1.3),
-(-o-min-device-pixel-ratio:2.6/2),
-(-webkit-min-device-pixel-ratio:1.3),
-(min-device-pixel-ratio:1.3),
-(min-resolution:1.3dppx) {
-
-    #bmiadsgmen,
-    #bridesmaids {
-        background-image: url("../images/bridesmaids-background.jpg")
-    }
-}
-
-#groomsmen {
-    background-image: url("../images/groomsmen-background.jpg")
 }
 
 @media (min--moz-device-pixel-ratio:1.3),
@@ -91,7 +70,7 @@
 (min-device-pixel-ratio:1.3),
 (min-resolution:1.3dppx) {
     #groomsmen {
-        background-image: url("../images/groomsmen-background.jpg")
+        background-image: url("../images/gift-background-img.jpg")
     }
 }
 
@@ -106,20 +85,6 @@
 (min-resolution:1.3dppx) {
     #giftregistry {
         background-image: url("../images/gift-background-img.jpg")
-    }
-}
-
-.page-header {
-    background-image: url("../images/bridesmaids-background.jpg")
-}
-
-@media (min--moz-device-pixel-ratio:1.3),
-(-o-min-device-pixel-ratio:2.6/2),
-(-webkit-min-device-pixel-ratio:1.3),
-(min-device-pixel-ratio:1.3),
-(min-resolution:1.3dppx) {
-    .page-header {
-        background-image: url("../images/bridesmaids-background.jpg")
     }
 }
 
@@ -924,7 +889,15 @@ p.center {
     background-attachment: fixed;
     background-repeat: repeat-y;
     -webkit-background-size: cover;
-    background-size: cover
+    background-size: cover;
+}
+
+#groomsmen, #bridesmaids  {
+    width: 100%;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
 }
 
 .owl-carousel {
@@ -2049,7 +2022,7 @@ p.center {
 .hero-title {
     color: #8eaeba;
     font-family: 'Marmelad', sans-serif;
-    font-size: 65pt;
+    font-size: 50pt;
     margin-bottom: 5px;
     position: relative;
     min-height: 55px;
@@ -4155,13 +4128,12 @@ section.side-flowers {
 		justify-content: center!important;
 	}
 	.gallery-container .timeline-gallery-wrapper .item > img{
-		border-radius: 50%;
+		border-radius: 20px;
         max-width: 300px !important;
-        height: 300px !important;
 	}
 }
 
-.wedding-gifts li .info {
+/* .wedding-gifts li .info {
     position: relative;
     z-index: 2;
     -khtml-opacity: 0;
@@ -4174,7 +4146,7 @@ section.side-flowers {
     top: -40px;
     text-align: center;
     max-height: 0;
-}
+} */
 
 .wedding-gifts li .info img {
     background: rgba(255, 255, 255, .15);
@@ -4185,7 +4157,7 @@ section.side-flowers {
 }
 
 .wedding-gifts li .info .btn {
-    margin: 20px 10px;
+    margin: 20px 10px 0;
     max-width: 205px;
     font-size: .93rem;
 }
@@ -4204,14 +4176,14 @@ section.side-flowers {
     border-right-color: #8eaeba
 }
 
-.wedding-gifts li:hover .info {
+/* .wedding-gifts li:hover .info {
     -khtml-opacity: 1;
     -moz-opacity: 1;
     opacity: 1;
     top: 20px;
     float: none;
     max-height: 500px;
-}
+} */
 
 .progress-wrapper {
     margin-bottom: 32px;
@@ -5840,7 +5812,7 @@ section.side-flowers {
 .form-select {
     background-color: #fbfbfb;
     border: 1px solid #e1e1e1;
-    color: #73777b;
+    color: #212529;
     height: auto;
     padding: 11px 20px;
     -webkit-border-radius: 0;
@@ -5879,7 +5851,7 @@ section.side-flowers {
 }
 
 textarea.form-control {
-    min-height: 100px
+    min-height: 120px
 }
 
 .form-select {
@@ -6057,12 +6029,10 @@ textarea.form-control {
 }
 
 .footer-logo small {
-    font-size: 12pt;
+    font-size: 20pt;
     position: relative;
-    top: -8px;
-    -khtml-opacity: 0.5;
-    -moz-opacity: 0.5;
-    opacity: .5
+    top: 13px;
+    display: block;
 }
 
 #footer {
@@ -6801,10 +6771,6 @@ textarea.form-control {
         line-height: .85
     }
 
-    .footer-logo small {
-        top: -4px
-    }
-
     .footer-logo::after,
     .footer-logo::before {
         width: 80px;
@@ -7189,7 +7155,7 @@ textarea.form-control {
 	    padding: 15px 10px;
 	}
 	.wedding-gifts li .info .btn{
-		max-width: 182px;
+		max-width: 180px;
 	}
     .hero-wrapper::before {
         left: -100px
@@ -7363,7 +7329,11 @@ textarea.form-control {
     }
 
     #giftregistry {
-        padding: 0;
+        padding: 0 !important;
+    }
+
+    .section-title-lg.desc {
+        margin-bottom: 30px;
     }
 
     .extra-padding-section {
@@ -7376,7 +7346,6 @@ textarea.form-control {
 
     .gallery-container .timeline-gallery-wrapper .item > img {
         max-width: 250px !important;
-        height: 250px !important;
     }
 
     .timeline .description {
@@ -7407,6 +7376,67 @@ textarea.form-control {
         color: #fff;
         padding: 30px 25px !important;
     }
+
+    h3 {
+        font-size: 24pt;
+    }
+
+    .testimonials .owl-item .item blockquote::after, .testimonials .owl-item .item blockquote::before {
+        font-size: 90pt;
+        margin-top: -48px;
+    }
+
+    .testimonials .owl-item .item blockquote {
+        padding: 5px 50px;
+    }
+
+    .bmaid-gmen .image .hover-info .content, .bmaid-gmen-color .image .hover-info .content {
+        padding: 10px;
+    }
+
+    .wedding-gifts li .info .btn {
+        margin: 15px 10px;
+        padding: 12px 20px;
+    }
+
+    .wedding-gifts li .info .btn:last-child {
+        margin-top: 0;
+        margin-bottom: 15px;
+    }
+}
+
+@media (max-width:414px) {
+    .gallery-container .timeline-gallery-wrapper .item > img {
+        max-width: 330px !important;
+    }
+    .wedding-gifts li .event-item-content div.d-inline-block {
+        flex: 0 0 100%;
+    }
+
+    #invitation .invite .invite_info h2 {
+        font-size: 24pt !important;
+        max-width: 250px;
+        margin: 0 auto;
+    }
+
+    #invitation .invite .invite_info h2 small {
+        font-size: 18pt;
+        display: block;
+    }
+
+    .invite_info .note {
+        display: block;
+        margin-top: 15px;
+    }
+
+    .wedding-gifts li:hover .info {
+        top: 10px;
+    }
+
+    .section-desc {
+        padding: 0 25px !important;
+    }
+
 }
 
 @media (max-width:1199px) {
@@ -7508,7 +7538,7 @@ textarea.form-control {
 	width: 25%;
 	min-width: 50px;
 	text-align: center;
-	padding: 30px 10px 0;
+	padding: 10px 10px 0;
 }
 #clock .box, #clock .box > div, #clock .box > span{display:block;}
 #clock .box > div {
@@ -7554,7 +7584,7 @@ textarea.form-control {
 }
 
 @media (max-width: 991px) {
-  #clock .box{min-width:80px;}
+  #clock .box{min-width:70px;}
   #clock .box > div {
     font-size: 20pt;
     line-height: 1.3em;
@@ -7925,6 +7955,13 @@ text-transform:uppercase;
 #frm-happy .tooltip-custom {
 	position: relative;
 	display: inline-block;
+}
+
+#honeypot {
+    position: absolute;
+    left: -9999px;
+    top: -9999px;
+    visibility: hidden;
 }
 
 /* dresscode */

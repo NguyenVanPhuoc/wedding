@@ -1,4 +1,4 @@
-<section id="giftregistry" class="parallax-background section-bg-color" style="padding:135px 0; background-image: url({{ asset('images/TNQ06712.JPG') }});">
+<section id="giftregistry" class="parallax-background section-bg-color" style="padding:135px 0; background-image: url({{ asset('images/TNQ06543.JPG') }});">
     <div class="section-divider-top-4 off-section"></div>
    <div class="container">
        <div class="row">
@@ -14,21 +14,12 @@
                                <img src="{{ asset('images/hoacuoidep.jpg') }}" alt="LỄ CƯỚI NHÀ NỮ" width="100" height="100" class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0" />
                                <div class="d-inline-block">
                                    <h3 class="w-100">LỄ CƯỚI NHÀ NỮ</h3>
-                                   <div class="dresscode-colors-wrap">
-                                       <div class="dresscode-colors-event">
-                                           <i class="fa fa-user-tie"></i>
-                                           <span class="tooltip-dresscode">Dress Code: </span>
-                                           <div class="dresscode-colors-item" style="background:#eda2b6;"></div>
-                                           <div class="dresscode-colors-item" style="background:#ffffff;"></div>
-                                           <div class="dresscode-colors-item" style="background:#623262;"></div>
-                                       </div>
-                                   </div>
                                    <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>08:30 07/07/2024</strong></p>
                                    <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Tư gia nhà nữ</strong></p>
                                </div>
                            </div>
 
-                           <div class="info">
+                           <div class="info text-center">
                                <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                    <div class="atcb" style="display:none;">
                                    {
@@ -61,21 +52,12 @@
                                <img src="{{ asset('images/tiec-cuoi-nu.jpg') }}" alt="TIỆC CƯỚI NHÀ NỮ" width="100" height="100" class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0" />
                                <div class="d-inline-block">
                                    <h3 class="w-100">TIỆC CƯỚI NHÀ NỮ</h3>
-                                   <div class="dresscode-colors-wrap">
-                                       <div class="dresscode-colors-event">
-                                           <i class="fa fa-user-tie"></i>
-                                           <span class="tooltip-dresscode">Dress Code: </span>
-                                           <div class="dresscode-colors-item" style="background:#504e63;"></div>
-                                           <div class="dresscode-colors-item" style="background:#cc8a4d;"></div>
-                                           <div class="dresscode-colors-item" style="background:#bc5f6a;"></div>
-                                       </div>
-                                   </div>
                                    <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>10:30 07/07/2024</strong></p>
                                    <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Tư gia nhà nữ</strong></p>
                                </div>
                            </div>
 
-                           <div class="info">
+                           <div class="info text-center">
                                <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                    <div class="atcb" style="display:none;">
                                    {
@@ -108,21 +90,13 @@
                                <img src="{{ asset('images/ban-tiec.jpg') }}" alt="LỄ CƯỚI NHÀ NAM" width="100" height="100" class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0" />
                                <div class="d-inline-block">
                                    <h3 class="w-100">LỄ CƯỚI NHÀ NAM</h3>
-                                   <div class="dresscode-colors-wrap">
-                                       <div class="dresscode-colors-event">
-                                           <i class="fa fa-user-tie"></i>
-                                           <span class="tooltip-dresscode">Dress Code: </span>
-                                           <div class="dresscode-colors-item" style="background:#32435f;"></div>
-                                           <div class="dresscode-colors-item" style="background:#ffffff;"></div>
-                                           <div class="dresscode-colors-item" style="background:#57233a;"></div>
-                                       </div>
-                                   </div>
+
                                    <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>11:30 08/07/2024</strong></p>
                                    <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Tư gia nhà nam</strong></p>
                                </div>
                            </div>
 
-                           <div class="info">
+                           <div class="info text-center">
                                <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                    <div class="atcb" style="display:none;">
                                    {
@@ -155,21 +129,12 @@
                                <img src="{{ asset('images/tiec-cuoi-nam.jpg') }}" alt="TIỆC CƯỚI NHÀ NAM" width="100" height="100" class="d-inline-block rounded-circle me-0 mb-4 me-lg-3 mb-lg-0" />
                                <div class="d-inline-block">
                                    <h3 class="w-100">TIỆC CƯỚI NHÀ NAM</h3>
-                                   <div class="dresscode-colors-wrap">
-                                       <div class="dresscode-colors-event">
-                                           <i class="fa fa-user-tie"></i>
-                                           <span class="tooltip-dresscode">Dress Code: </span>
-                                           <div class="dresscode-colors-item" style="background:#7fb174;"></div>
-                                           <div class="dresscode-colors-item" style="background:#504e63;"></div>
-                                           <div class="dresscode-colors-item" style="background:#632a7e;"></div>
-                                       </div>
-                                   </div>
                                    <p class="w-100 mb-2 mt-2"><i class="fa fa-clock" aria-hidden="true"></i> <strong>12:00 08/07/2024</strong></p>
                                    <p class="w-100 mb-0 mt-1"><i class="fa fa-map-marker" aria-hidden="true"></i> <strong>Tư gia nhà nam</strong></p>
                                </div>
                            </div>
 
-                           <div class="info">
+                           <div class="info text-center">
                                <div class="calendar-button" style="visibility: hidden;height: 0;overflow: hidden;">
                                    <div class="atcb" style="display:none;">
                                    {

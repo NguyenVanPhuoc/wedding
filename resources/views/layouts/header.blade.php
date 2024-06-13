@@ -16,7 +16,7 @@
                         <ul class="nav navbar-nav">
                             <li><a href="#couple">Cặp đôi</a></li>
                             <li><a href="#story">Chuyện tình yêu</a></li>
-                            <li><a href="#bridesmaids">Phù dâu & Phù rể</a></li>
+                            <li><a href="#bridesmaids">Phụ dâu & Phụ rể</a></li>
                             <li><a href="#gallery">Album hình cưới</a></li>
                             <li><a href="#events">Sự kiện cưới</a></li>
                             <li><a href="#rsvp">Lời chúc</a></li>
