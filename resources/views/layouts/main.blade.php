@@ -26,8 +26,8 @@
         <link rel="stylesheet" href="{{ asset('css/owl.carousel.min.css') }}">
         <link rel="stylesheet" href="{{ asset('css/style.css') }}">
         @stack('css')
-        <script async src="{{ asset('js/gtag.js') }}"></script>
-        <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-K9L0ZFE1PJ');</script>
+        {{-- <script async src="{{ asset('js/gtag.js') }}"></script>
+        <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-K9L0ZFE1PJ');</script> --}}
     </head>
     <script type="text/javascript">
         var photoGalleries = [];
@@ -72,7 +72,7 @@
     <script src="{{ asset('js/variables.js') }}"></script>
     <script src="{{ asset('js/template.settings.js') }}"></script>
     <script src="{{ asset('js/calendar.js') }}"></script>
-    <script src="{{ asset('js/insertTextAtCursor.js') }}"></script>
+    {{-- <script src="{{ asset('js/insertTextAtCursor.js') }}"></script> --}}
     <script src="{{ asset('js/scripts.js') }}"></script>
     <script src="{{ asset('js/happyBook.js') }}"></script>
     @stack('js')

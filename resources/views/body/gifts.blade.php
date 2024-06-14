@@ -40,7 +40,7 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/dir/16.0723198,108.0911135/16.0728183,108.0910684/@16.072853,108.0899316,18.25z/data=!4m4!4m3!1m0!1m1!4e1?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/dir/16.0647102,108.2239101/16.0689928,108.0934808/@16.0696762,108.0951878,17z/data=!4m4!4m3!1m1!4e1!1m0?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
@@ -78,7 +78,7 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/place/16%C2%B003'10.3%22N+108%C2%B006'39.7%22E/@16.052864,108.1099394,18z/data=!3m1!4b1!4m4!3m3!8m2!3d16.052864!4d108.111022?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/dir/16.0647102,108.2239101/16.052742,108.1124554/@16.05209,108.1136692,18z/data=!4m5!4m4!1m1!4e1!1m0!3e0?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
@@ -117,7 +117,7 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/place/16%C2%B031'20.9%22N+107%C2%B029'15.2%22E/@16.52248,107.4868983,19z/data=!3m1!4b1!4m13!1m8!3m7!1s0x3141a7e4ee276465:0xa2bd7aa907234c83!2zNDEgVHLhuqduIEjGsG5nIMSQ4bqhdCwgSMawxqFuZyBWxINuLCBIxrDGoW5nIFRyw6AsIFRo4burYSBUaGnDqm4gSHXhur8sIFZp4buHdCBOYW0!3b1!8m2!3d16.5222847!4d107.4874051!16s%2Fg%2F11hbn8zyw9!3m3!8m2!3d16.52248!4d107.487542?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/dir/16.0647102,108.2239101/16.522484,107.4875427/@16.5220267,107.4880073,19.25z/data=!4m4!4m3!1m1!4e1!1m0?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
@@ -155,7 +155,7 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/place/16%C2%B031'20.9%22N+107%C2%B029'15.2%22E/@16.52248,107.4868983,19z/data=!3m1!4b1!4m13!1m8!3m7!1s0x3141a7e4ee276465:0xa2bd7aa907234c83!2zNDEgVHLhuqduIEjGsG5nIMSQ4bqhdCwgSMawxqFuZyBWxINuLCBIxrDGoW5nIFRyw6AsIFRo4burYSBUaGnDqm4gSHXhur8sIFZp4buHdCBOYW0!3b1!8m2!3d16.5222847!4d107.4874051!16s%2Fg%2F11hbn8zyw9!3m3!8m2!3d16.52248!4d107.487542?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/dir/16.0647102,108.2239101/16.522484,107.4875427/@16.5220267,107.4880073,19.25z/data=!4m4!4m3!1m1!4e1!1m0?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
