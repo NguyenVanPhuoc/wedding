@@ -2863,7 +2863,8 @@ p.center {
 }
 
 .timeline .description p {
-    margin: 0
+    margin: 0;
+    text-align: left;
 }
 
 .timeline .template-1,

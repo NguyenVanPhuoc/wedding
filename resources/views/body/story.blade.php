@@ -30,14 +30,10 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                             <div class="description">
                                 <div class="neela-style">
                                     <h4>Tình Yêu Mai Mối: Khi Định Mệnh Được Sắp Đặt</h4>
-                                    <p>
-                                        Tôi từng không tin vào tình yêu mai mối. 
-                                        Một người bạn thân đã giới thiệu tôi với anh ấy, ban đầu tôi ngần ngại nhưng vẫn đồng ý gặp mặt. 
-                                        Nào ngờ, 5 năm sau, anh ấy trở thành chồng tôi. 
-                                        Chúng tôi bắt đầu bằng những buổi trò chuyện chân thành và dần yêu nhau. 
-                                        Giờ đây, tôi hiểu rằng đôi khi định mệnh cần một chút giúp đỡ từ bạn bè. 
-                                        Câu chuyện của chúng tôi là minh chứng cho điều đó.
-                                    </p>
+                                    <p>Tôi từng không tin vào tình yêu mai mối.</p>
+                                    <p>Một người bạn thân đã giới thiệu tôi với anh ấy, ban đầu tôi ngần ngại nhưng vẫn đồng ý gặp mặt. Nào ngờ, 5 năm sau, anh ấy trở thành chồng tôi.
+                                    Chúng tôi bắt đầu bằng những buổi trò chuyện chân thành và dần yêu nhau. Giờ đây, tôi hiểu rằng đôi khi định mệnh cần một chút giúp đỡ từ bạn bè. </p>
+                                    <p>Câu chuyện của chúng tôi là minh chứng cho điều đó.</p>
                                 </div>
                             </div>
                         </div>
@@ -58,15 +54,10 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                             <div class="description">
                                 <div class="neela-style">
                                     <h4>Lời Tỏ Tình Qua Món Bún Mắm^^</h4>
-                                    <p>
-                                        Hôm ấy, anh mời tôi đi ăn bún mắm. Khi bát bún được mang ra, anh nói: "Cậu thích bún mắm, còn tớ thích cậu. Làm bạn gái tớ nhé?"
-
-                                        Tôi cười: "Đồng ý, nhưng nem và chả của tớ thì cậu không được đụng vào!"
-
-                                        Anh phá lên cười: "Thỏa thuận! Nem và chả của cậu là bất khả xâm phạm!"
-
-                                        Thế là bún mắm thành "hiệp ước tình yêu" của chúng tôi.
-                                    </p>
+                                    <p>Hôm ấy, anh mời tôi đi ăn bún mắm. Khi bát bún được mang ra, anh nói: "Cậu thích bún mắm, còn tớ thích cậu. Làm bạn gái tớ nhé?"</p>
+                                    <p>Tôi cười: "Đồng ý, nhưng nem và chả của tớ thì cậu không được đụng vào!"</p>
+                                    <p>Anh phá lên cười: "Thỏa thuận! Nem và chả của cậu là bất khả xâm phạm!"</p>
+                                    <p>Thế là bún mắm thành "hiệp ước tình yêu" của chúng tôi.</p>
                                 </div>
                             </div>
                         </div>
@@ -87,11 +78,10 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                             <div class="description">
                                 <div class="neela-style">
                                     <h4>Phút giây cầu hôn</h4>
-                                    <p>Trong quán ăn lãng mạn vào sinh nhật của tôi, anh quỳ xuống, tặng tôi chiếc hộp nhỏ. 
-                                        Ánh đèn tắt, chỉ còn một ngọn nến. "Em đồng ý làm vợ anh không?" 
-                                        Tôi không kìm được nước mắt, gật đầu. Tiếng vỗ tay vang lên khắp quán, tất cả chúc mừng. 
-                                        Đó là khoảnh khắc hạnh phúc và xúc động.
-                                    </p>
+                                    <p>Trong quán ăn lãng mạn vào sinh nhật của tôi, anh quỳ xuống, tặng tôi chiếc hộp nhỏ. </p>
+                                    <p>Ánh đèn tắt, chỉ còn một ngọn nến. "Em đồng ý làm vợ anh không?" </p>
+                                    <p>Tôi không kìm được nước mắt, gật đầu. Tiếng vỗ tay vang lên khắp quán, tất cả chúc mừng. </p>
+                                    <p>Đó là khoảnh khắc hạnh phúc và xúc động.</p>
                                 </div>
                             </div>
                         </div>
@@ -113,8 +103,8 @@ style="background-image: url({{ asset('images/flow.jpg') }})">
                                 <div class="neela-style">
                                     <h4>Ngày lễ đính hôn</h4>
                                     <p>“Tiếng trái tim đôi ta đập thật nhanh. Thì thầm lời yêu thương. Ngày tình về chung đôi...” 
-                                        Sau bao nhiêu chờ đợi, cuối cùng ngày vui của chúng ta cũng tới rồi. 
-                                        Cảm ơn vì mình đã luôn là một phần trong cuộc sống của nhau. 
+                                        Sau bao nhiêu chờ đợi, cuối cùng ngày vui của chúng ta cũng tới rồi. </p>
+                                    <p>Cảm ơn vì mình đã luôn là một phần trong cuộc sống của nhau. 
                                         Em và anh không chỉ là người yêu mà chúng ta còn là tri kỷ. 
                                         Ngày hôm nay, em sẽ là cô dâu của anh và sau này sẽ là mẹ của các con anh.</p>
                                 </div>
