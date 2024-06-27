@@ -30,7 +30,7 @@
                     <div class="hover-info neela-style">
                         <div class="content center">
                             <h3>Hồ Văn Giáp<small>Phụ rể</small></h3>
-                            <p>Anh ấy là một chàng trai IT năng động và dễ gần. Mặc dù ít nói, nhưng anh luôn tỏ ra nhiệt tình...<a class="button-see" data-src="{{ asset('images/giap.jpg') }}"
+                            <p>Anh ấy là một chàng trai IT năng động và dễ gần. Mặc dù ít nói, nhưng anh luôn nhiệt tình...<a class="button-see" data-src="{{ asset('images/giap.jpg') }}"
                                 data-content="Anh ấy là một chàng trai IT năng động và dễ gần.
                                 Mặc dù ít nói, nhưng anh luôn nhiệt tình và có trách nhiệm trong công việc.
                                 Ngoài niềm đam mê yêu quý dành cho động vật, anh ấy còn thích tận hưởng thêm những bữa cơm gia đình ấm cúng và duy trì lối sống lành mạnh. "
