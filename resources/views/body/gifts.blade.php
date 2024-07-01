@@ -7,7 +7,7 @@
                <div class="section-desc mb-5 px-5 text-center">Tình yêu đích thực đứng về phía nhau trong những ngày tốt đẹp và sát cánh hơn trong những ngày tồi tệ.</div>
                
                <ul class="wedding-gifts">
-                                               
+
                    <li data-animation-direction="from-bottom" data-animation-delay="300">
                        <div class="neela-style">
                            <div class="d-flex align-items-center event-item-content">
@@ -40,12 +40,12 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/dir/16.0647102,108.2239101/16.0689928,108.0934808/@16.0696762,108.0951878,17z/data=!4m4!4m3!1m1!4e1!1m0?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/dir//16.0689928,108.0934808/@16.0452784,108.0720216,13z?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
-                   
-                                                                           
+
+
                    <li data-animation-direction="from-bottom" data-animation-delay="300">
                        <div class="neela-style">
                            <div class="d-flex align-items-center event-item-content">
@@ -78,12 +78,12 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/dir/16.0647102,108.2239101/16.052742,108.1124554/@16.05209,108.1136692,18z/data=!4m5!4m4!1m1!4e1!1m0!3e0?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/dir//16.052742,108.1124554/@16.048815,108.1123505,14.58z/data=!4m2!4m1!3e0?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
-                   
-                                                                           
+
+
                    <li data-animation-direction="from-bottom" data-animation-delay="300">
                        <div class="neela-style">
                            <div class="d-flex align-items-center event-item-content">
@@ -117,12 +117,12 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/dir/16.0647102,108.2239101/16.522484,107.4875427/@16.5220267,107.4880073,19.25z/data=!4m4!4m3!1m1!4e1!1m0?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/dir//16.522484,107.4875427/@16.5228733,107.44682,13z?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
-                   
-                                                                           
+
+
                    <li data-animation-direction="from-bottom" data-animation-delay="300">
                        <div class="neela-style">
                            <div class="d-flex align-items-center event-item-content">
@@ -155,11 +155,11 @@
                                    </div>
                                </div>
                                <a href="javascript:void(0)" id="otheramount" class="btn btn-primary reverse calendar-button-custom-click">Thêm vào lịch</a>
-                               <a href="https://www.google.com/maps/dir/16.0647102,108.2239101/16.522484,107.4875427/@16.5220267,107.4880073,19.25z/data=!4m4!4m3!1m1!4e1!1m0?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
+                               <a href="https://www.google.com/maps/dir//16.522484,107.4875427/@16.5228733,107.44682,13z?entry=ttu" target="_blank" id="otheramount" class="btn btn-primary reverse">Xem bản đồ <i class="fa fa-angle-right me-0"></i></a>
                            </div>
                        </div>
                    </li>
-                   
+
                </ul>
            </div>
        </div>
