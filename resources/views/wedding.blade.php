@@ -85,7 +85,7 @@
             <li class="text-center">
                 <a href="#map" class="text-white">
                     <span class="content-button tooltipBtn">
-                        <span class="tooltiptext">Google map</span>
+                        <span class="tooltiptext">Địa chỉ</span>
                         <img class="access-icon" src="{{ asset('images/location.png') }}" alt="">
                     </span>
                 </a>
