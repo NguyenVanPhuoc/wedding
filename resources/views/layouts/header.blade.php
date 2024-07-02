@@ -16,11 +16,12 @@
                         <ul class="nav navbar-nav">
                             <li><a href="#couple">Cặp đôi</a></li>
                             <li><a href="#story">Chuyện tình yêu</a></li>
-                            <li><a href="#bridesmaids">Phụ dâu & Phụ rể</a></li>
                             <li><a href="#gallery">Album hình cưới</a></li>
                             <li><a href="#events">Sự kiện cưới</a></li>
+                            <li><a href="#bridesmaids">Phụ dâu & Phụ rể</a></li>
                             <li><a href="#rsvp">Lời chúc</a></li>
                             <li><a href="#donate">Mừng cưới</a></li>
+                            <li><a href="#map">Địa chỉ</a></li>
                         </ul>
                         <button id="nav-mobile-btn"><i class="fas fa-bars"></i></button><!-- Mobile menu button -->
                     </nav>

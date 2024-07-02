@@ -11,11 +11,11 @@
     <!-- BEGIN OUR STORY TITLE SECTION -->
     @include('body.story')
     <!-- END OUR STORY TITLE SECTION -->
-        
+
     <!-- BEGIN THE WEDDING SECTION -->
     @include('body.invitation')
     <!-- END THE WEDDING SECTION -->
-        
+
     <!-- BEGIN GALLERY SECTION -->
     @include('body.gallery')
     <!-- END GALLERY SECTION -->
@@ -23,25 +23,25 @@
     <!-- BEGIN VIDEO SECTION -->
     @include('body.video')
     <!-- END VIDEO SECTION -->
-                
+
     <!-- BEGIN WEDDING GIFTS SECTION -->
     <div id="events"></div>
     @include('body.gifts')
     <!-- END WEDDING GIFTS SECTION -->
 
     <!-- BEGIN BRIDESMAIDS SECTION -->
-    @include('body.bridesmaids')       
+    @include('body.bridesmaids')
     <!-- END BRIDESMAIDS SECTION -->
 
 
     <!-- BEGIN TESTIMONIALS SECTION -->
-    @include('body.testimonials') 
+    @include('body.testimonials')
     <!-- END TESTIMONIALS SECTION -->
 
     <!-- BEGIN GROOMSMEN SECTION -->
-    @include('body.groomsmen') 
+    @include('body.groomsmen')
     <!-- END GROOMSMEN SECTION -->
-        
+
     <!-- BEGIN CONTACTS SECTION -->
     @include('body.book', ['contents' => $contents])
     <!-- END CONTACTS SECTION -->
@@ -49,6 +49,10 @@
     <!-- BEGIN DONATE SECTION -->
     @include('body.donate')
     <!-- END DONATE SECTION -->
+
+    <!-- BEGIN MAP SECTION -->
+    @include('body.map')
+    <!-- END MAP SECTION -->
 
     <div id="menu-access" class="">
         <div class="btn-menu-open">
@@ -78,8 +82,16 @@
                     </span>
                 </a>
             </li>
+            <li class="text-center">
+                <a href="#map" class="text-white">
+                    <span class="content-button tooltipBtn">
+                        <span class="tooltiptext">Google map</span>
+                        <img class="access-icon" src="{{ asset('images/location.png') }}" alt="">
+                    </span>
+                </a>
+            </li>
         </ul>
     </div>
     <div id="data_loading" class="lds-dual-ring hidden overlay"></div>
-    
+
 @endsection
